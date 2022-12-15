@@ -1,0 +1,22 @@
+import pandas as pd
+import dedupe
+import os
+from numpy import random
+UNdata =pd.read_excel(https://github.com/shionguha/inf1340-programmingfordatascience-fa22/blob/main/project%20data/UN_MigrantStockTotal_2015.xlsx)
+UNdata.head()# check data quality
+UNdata.dtypes
+for col in UNdata.columns:
+    print(col, UNdata[col].isnull().sum())# indicates whether the values are missing
+ #to remove all null values we use the folowing method
+UNdata =pd.read_excel(https://github.com/shionguha/inf1340-programmingfordatascience-fa22/blob/main/project%20data/UN_MigrantStockTotal_2015.xlsx ,na_values=['n/a'] )
+UNdata.1990.value_counts() #this ouputs values in the column 1990 helps in visualizing the missing values
+exist_columns = list(UNdata.columns) #to ouput where all data is present
+exist_columns
+missing_values = list(UNdata.columns[UNdata.isnull().any()]) #find all columns where data is missing
+missing_values
+for col in missing_values:
+    num_missing = UNdata[UNdata[col].isnull() == True].shape[0]
+    print('number missing for column {}: {}'.format(col,
+                                                    num_missing))# to get the number of missing values per column
+UNdata.latest = UNdata.latest.fillna(0)#replace the missing values using fillna 
+UNdata.latest.value_counts()# to output the number of missing values replaced 
