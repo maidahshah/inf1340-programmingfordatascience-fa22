@@ -1,0 +1,1393 @@
+,country_or_area_of_destination,continent,major_region,country_code,year,refugees_as_a_percentage_of_the_international_migrant_stock
+0,Burundi,Africa,Eastern Africa,108,1990,80.43258983518957
+1,Comoros,Africa,Eastern Africa,174,1990,0
+2,Djibouti,Africa,Eastern Africa,262,1990,44.59790052445979
+3,Eritrea,Africa,Eastern Africa,232,1990,0
+4,Ethiopia,Africa,Eastern Africa,231,1990,64.21771003730342
+5,Kenya,Africa,Eastern Africa,404,1990,4.524844260861376
+6,Madagascar,Africa,Eastern Africa,450,1990,0
+7,Malawi,Africa,Eastern Africa,454,1990,77.55567851708398
+8,Mauritius,Africa,Eastern Africa,480,1990,0
+9,Mayotte,Africa,Eastern Africa,175,1990,0
+10,Mozambique,Africa,Eastern Africa,508,1990,0.3433279926756695
+11,Réunion,Africa,Eastern Africa,638,1990,0
+12,Rwanda,Africa,Eastern Africa,646,1990,14.665757589026015
+13,Seychelles,Africa,Eastern Africa,690,1990,0
+14,Somalia,Africa,Eastern Africa,706,1990,96.17515586647544
+15,South Sudan,Africa,Eastern Africa,728,1990,..
+16,Uganda,Africa,Eastern Africa,800,1990,26.099977252658483
+17,United Republic of Tanzania,Africa,Eastern Africa,834,1990,46.197291058751794
+18,Zambia,Africa,Eastern Africa,894,1990,49.3192463865763
+19,Zimbabwe,Africa,Eastern Africa,716,1990,29.218867906467715
+20,Angola,Africa,Middle Africa,24,1990,35.80272697437121
+21,Cameroon,Africa,Middle Africa,120,1990,18.561942233478053
+22,Central African Republic,Africa,Middle Africa,140,1990,5.0406044560787695
+23,Chad,Africa,Middle Africa,148,1990,0
+24,Congo,Africa,Middle Africa,178,1990,2.4661064685139316
+25,Democratic Republic of the Congo,Africa,Middle Africa,180,1990,50.19424710353039
+26,Equatorial Guinea,Africa,Middle Africa,226,1990,0
+27,Gabon,Africa,Middle Africa,266,1990,0.1633067666822941
+28,Sao Tome and Principe,Africa,Middle Africa,678,1990,0
+29,Algeria,Africa,Northern Africa,12,1990,61.728246347927026
+30,Egypt,Africa,Northern Africa,818,1990,1.0742165012549796
+31,Libya,Africa,Northern Africa,434,1990,0
+32,Morocco,Africa,Northern Africa,504,1990,0.5592494762728846
+33,Sudan,Africa,Northern Africa,729,1990,73.49440015510773
+34,Tunisia,Africa,Northern Africa,788,1990,0.07898062342038753
+35,Western Sahara,Africa,Northern Africa,732,1990,0
+36,Botswana,Africa,Southern Africa,72,1990,4.4347509996364955
+37,Lesotho,Africa,Southern Africa,426,1990,27.075242718446603
+38,Namibia,Africa,Southern Africa,516,1990,0
+39,South Africa,Africa,Southern Africa,710,1990,7.732736022435245
+40,Swaziland,Africa,Southern Africa,748,1990,58.36720538253451
+41,Benin,Africa,Western Africa,204,1990,0.8620689655172413
+42,Burkina Faso,Africa,Western Africa,854,1990,0.10152806893612884
+43,Cabo Verde,Africa,Western Africa,132,1990,0
+44,Côte d'Ivoire,Africa,Western Africa,384,1990,7.508205674219594
+45,Gambia,Africa,Western Africa,270,1990,0.033016432024245916
+46,Ghana,Africa,Western Africa,288,1990,2.48830762324766
+47,Guinea,Africa,Western Africa,324,1990,80.52108289707424
+48,Guinea-Bissau,Africa,Western Africa,624,1990,19.54711087975013
+49,Liberia,Africa,Western Africa,430,1990,0.13162882776631143
+50,Mali,Africa,Western Africa,466,1990,8.343494923352578
+51,Mauritania,Africa,Western Africa,478,1990,53.73936408419166
+52,Niger,Africa,Western Africa,562,1990,0.6859280814799418
+53,Nigeria,Africa,Western Africa,566,1990,0.78204900782049
+54,Saint Helena,Africa,Western Africa,654,1990,0
+55,Senegal,Africa,Western Africa,686,1990,21.49069930845753
+56,Sierra Leone,Africa,Western Africa,694,1990,56.61846095697483
+57,Togo,Africa,Western Africa,768,1990,4.098109471500636
+58,Kazakhstan,Asia,Central Asia,398,1990,0
+59,Kyrgyzstan,Asia,Central Asia,417,1990,0
+60,Tajikistan,Asia,Central Asia,762,1990,0.6994637444625788
+61,Turkmenistan,Asia,Central Asia,795,1990,0
+62,Uzbekistan,Asia,Central Asia,860,1990,0
+63,China,Asia,Eastern Asia,156,1990,75.93454157046028
+64,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,1990,0.4549074971838738
+65,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,1990,0
+66,Democratic People's Republic of Korea,Asia,Eastern Asia,408,1990,0
+67,Japan,Asia,Eastern Asia,392,1990,0.6181516623807903
+68,Mongolia,Asia,Eastern Asia,496,1990,0
+69,Republic of Korea,Asia,Eastern Asia,410,1990,0
+70,Brunei Darussalam,Asia,South-Eastern Asia,96,1990,0
+71,Cambodia,Asia,South-Eastern Asia,116,1990,0
+72,Indonesia,Asia,South-Eastern Asia,360,1990,0.4591806053108597
+73,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,1990,0
+74,Malaysia,Asia,South-Eastern Asia,458,1990,2.135590297735372
+75,Myanmar,Asia,South-Eastern Asia,104,1990,0
+76,Philippines,Asia,South-Eastern Asia,608,1990,12.89016102965516
+77,Singapore,Asia,South-Eastern Asia,702,1990,0.020075296110617633
+78,Thailand,Asia,South-Eastern Asia,764,1990,18.880711490411258
+79,Timor-Leste,Asia,South-Eastern Asia,626,1990,0
+80,Viet Nam,Asia,South-Eastern Asia,704,1990,75.2187211039192
+81,Afghanistan,Asia,Southern Asia,4,1990,0.04333807162916479
+82,Bangladesh,Asia,Southern Asia,50,1990,0.008280239605180026
+83,Bhutan,Asia,Southern Asia,64,1990,0
+84,India,Asia,Southern Asia,356,1990,1.4832907258363712
+85,Iran (Islamic Republic of),Asia,Southern Asia,364,1990,81.8389454192037
+86,Maldives,Asia,Southern Asia,462,1990,0
+87,Nepal,Asia,Southern Asia,524,1990,4.029313400345138
+88,Pakistan,Asia,Southern Asia,586,1990,52.60531065022992
+89,Sri Lanka,Asia,Southern Asia,144,1990,0.0360915281153004
+90,Armenia,Asia,Western Asia,51,1990,0
+91,Azerbaijan,Asia,Western Asia,31,1990,0
+92,Bahrain,Asia,Western Asia,48,1990,1.0276424266217121
+93,Cyprus,Asia,Western Asia,196,1990,0.0388083552105924
+94,Georgia,Asia,Western Asia,268,1990,0
+95,Iraq,Asia,Western Asia,368,1990,1.0760659030584185
+96,Israel,Asia,Western Asia,376,1990,0
+97,Jordan,Asia,Western Asia,400,1990,81.08193926980353
+98,Kuwait,Asia,Western Asia,414,1990,2.792279533242553
+99,Lebanon,Asia,Western Asia,422,1990,58.33551336374555
+100,Oman,Asia,Western Asia,512,1990,0
+101,Qatar,Asia,Western Asia,634,1990,0
+102,Saudi Arabia,Asia,Western Asia,682,1990,0.6654269477807598
+103,State of Palestine,Asia,Western Asia,275,1990,315.829321754089
+104,Syrian Arab Republic,Asia,Western Asia,760,1990,39.5992382446019
+105,Turkey,Asia,Western Asia,792,1990,2.6239036991078346
+106,United Arab Emirates,Asia,Western Asia,784,1990,0.033140105344205535
+107,Yemen,Asia,Western Asia,887,1990,34.942749215483374
+108,Belarus,Europe,Eastern Europe,112,1990,0
+109,Bulgaria,Europe,Eastern Europe,100,1990,0
+110,Czech Republic,Europe,Eastern Europe,203,1990,0
+111,Hungary,Europe,Eastern Europe,348,1990,10.377255330781848
+112,Poland,Europe,Eastern Europe,616,1990,0
+113,Republic of Moldova,Europe,Eastern Europe,498,1990,0
+114,Romania,Europe,Eastern Europe,642,1990,0
+115,Russian Federation,Europe,Eastern Europe,643,1990,0
+116,Slovakia,Europe,Eastern Europe,703,1990,0
+117,Ukraine,Europe,Eastern Europe,804,1990,0
+118,Channel Islands,Europe,Northern Europe,830,1990,0
+119,Denmark,Europe,Northern Europe,208,1990,13.532520653601996
+120,Estonia,Europe,Northern Europe,233,1990,0
+121,Faeroe Islands,Europe,Northern Europe,234,1990,0
+122,Finland,Europe,Northern Europe,246,1990,3.4368824598845946
+123,Iceland,Europe,Northern Europe,352,1990,0.44866444073455763
+124,Ireland,Europe,Northern Europe,372,1990,0.1710818955874031
+125,Isle of Man,Europe,Northern Europe,833,1990,0
+126,Latvia,Europe,Northern Europe,428,1990,0
+127,Lithuania,Europe,Northern Europe,440,1990,0
+128,Norway,Europe,Northern Europe,578,1990,10.16735293659489
+129,Sweden,Europe,Northern Europe,752,1990,15.812400873768805
+130,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,1990,1.1888109589221227
+131,Albania,Europe,Southern Europe,8,1990,4.544559404965689
+132,Andorra,Europe,Southern Europe,20,1990,0
+133,Bosnia and Herzegovina,Europe,Southern Europe,70,1990,0
+134,Croatia,Europe,Southern Europe,191,1990,0
+135,Gibraltar,Europe,Southern Europe,292,1990,0
+136,Greece,Europe,Southern Europe,300,1990,1.2924277549224366
+137,Holy See,Europe,Southern Europe,336,1990,0
+138,Italy,Europe,Southern Europe,380,1990,0.8667438257018008
+139,Malta,Europe,Southern Europe,470,1990,0
+140,Montenegro,Europe,Southern Europe,499,1990,..
+141,Portugal,Europe,Southern Europe,620,1990,0.19895268735285074
+142,San Marino,Europe,Southern Europe,674,1990,0
+143,Serbia,Europe,Southern Europe,688,1990,0.9449072721594858
+144,Slovenia,Europe,Southern Europe,705,1990,0
+145,Spain,Europe,Southern Europe,724,1990,1.0105829443589072
+146,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,1990,0
+147,Austria,Europe,Western Europe,40,1990,4.686103431626534
+148,Belgium,Europe,Western Europe,56,1990,2.8850176717287113
+149,France,Europe,Western Europe,250,1990,3.1646693290298713
+150,Germany,Europe,Western Europe,276,1990,12.166913374103654
+151,Liechtenstein,Europe,Western Europe,438,1990,0
+152,Luxembourg,Europe,Western Europe,442,1990,0.3022979920031636
+153,Monaco,Europe,Western Europe,492,1990,0
+154,Netherlands,Europe,Western Europe,528,1990,1.4509461938671853
+155,Switzerland,Europe,Western Europe,756,1990,2.9407117236307014
+156,Anguilla,Latin America and the Carribean,Caribbean,660,1990,0
+157,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,1990,0
+158,Aruba,Latin America and the Carribean,Caribbean,533,1990,0
+159,Bahamas,Latin America and the Carribean,Caribbean,44,1990,0
+160,Barbados,Latin America and the Carribean,Caribbean,52,1990,0
+161,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,1990,0
+162,British Virgin Islands,Latin America and the Carribean,Caribbean,92,1990,0
+163,Cayman Islands,Latin America and the Carribean,Caribbean,136,1990,0
+164,Cuba,Latin America and the Carribean,Caribbean,192,1990,11.543915497033714
+165,Curaçao,Latin America and the Carribean,Caribbean,531,1990,..
+166,Dominica,Latin America and the Carribean,Caribbean,212,1990,0
+167,Dominican Republic,Latin America and the Carribean,Caribbean,214,1990,0.9077763772063294
+168,Grenada,Latin America and the Carribean,Caribbean,308,1990,0
+169,Guadeloupe,Latin America and the Carribean,Caribbean,312,1990,0
+170,Haiti,Latin America and the Carribean,Caribbean,332,1990,0
+171,Jamaica,Latin America and the Carribean,Caribbean,388,1990,0
+172,Martinique,Latin America and the Carribean,Caribbean,474,1990,0
+173,Montserrat,Latin America and the Carribean,Caribbean,500,1990,0
+174,Puerto Rico,Latin America and the Carribean,Caribbean,630,1990,0
+175,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,1990,0
+176,Saint Lucia,Latin America and the Carribean,Caribbean,662,1990,0
+177,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,1990,0
+178,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,1990,..
+179,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,1990,0
+180,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,1990,0
+181,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,1990,0
+182,Belize,Latin America and the Carribean,Central America,84,1990,100
+183,Costa Rica,Latin America and the Carribean,Central America,188,1990,66.44789142490445
+184,El Salvador,Latin America and the Carribean,Central America,222,1990,43.31714527027027
+185,Guatemala,Latin America and the Carribean,Central America,320,1990,84.47798923018122
+186,Honduras,Latin America and the Carribean,Central America,340,1990,87.6937242764114
+187,Mexico,Latin America and the Carribean,Central America,484,1990,51.23865488720292
+188,Nicaragua,Latin America and the Carribean,Central America,558,1990,37.67412665073272
+189,Panama,Latin America and the Carribean,Central America,591,1990,2.1516001530026774
+190,Argentina,Latin America and the Carribean,South America,32,1990,0.7385211031571853
+191,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,1990,0.3186095067653678
+192,Brazil,Latin America and the Carribean,South America,76,1990,0.6678630511310342
+193,Chile,Latin America and the Carribean,South America,152,1990,0.16651007897600953
+194,Colombia,Latin America and the Carribean,South America,170,1990,0.5562108614555462
+195,Ecuador,Latin America and the Carribean,South America,218,1990,0.8059697697774048
+196,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,1990,0
+197,French Guiana,Latin America and the Carribean,South America,254,1990,10.376972898195309
+198,Guyana,Latin America and the Carribean,South America,328,1990,0
+199,Paraguay,Latin America and the Carribean,South America,600,1990,0.029609360642012618
+200,Peru,Latin America and the Carribean,South America,604,1990,1.08881199538639
+201,Suriname,Latin America and the Carribean,South America,740,1990,0
+202,Uruguay,Latin America and the Carribean,South America,858,1990,0.08867055322271597
+203,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,1990,0.17073020822256196
+204,Bermuda,North America,Northern America,60,1990,0
+205,Canada,North America,Northern America,124,1990,3.3520964766490713
+206,Greenland,North America,Northern America,304,1990,0
+207,Saint Pierre and Miquelon,North America,Northern America,666,1990,0
+208,United States of America,North America,Northern America,840,1990,1.8846179089043211
+209,Australia,Oceania,Australia and New Zealand,36,1990,2.475593602670703
+210,New Zealand,Oceania,Australia and New Zealand,554,1990,0.9006904778910021
+211,Fiji,Oceania,Melanesia,242,1990,0
+212,New Caledonia,Oceania,Melanesia,540,1990,0
+213,Papua New Guinea,Oceania,Melanesia,598,1990,21.696210268948654
+214,Solomon Islands,Oceania,Melanesia,90,1990,0
+215,Vanuatu,Oceania,Melanesia,548,1990,0
+216,Guam,Oceania,Micronesia,316,1990,0
+217,Kiribati,Oceania,Micronesia,296,1990,0
+218,Marshall Islands,Oceania,Micronesia,584,1990,0
+219,Micronesia (Federated States of),Oceania,Micronesia,583,1990,0
+220,Nauru,Oceania,Micronesia,520,1990,0
+221,Northern Mariana Islands,Oceania,Micronesia,580,1990,0
+222,Palau,Oceania,Micronesia,585,1990,0
+223,American Samoa,Oceania,Polynesia,16,1990,0
+224,Cook Islands,Oceania,Polynesia,184,1990,0
+225,French Polynesia,Oceania,Polynesia,258,1990,0
+226,Niue,Oceania,Polynesia,570,1990,0
+227,Samoa,Oceania,Polynesia,882,1990,0
+228,Tokelau,Oceania,Polynesia,772,1990,0
+229,Tonga,Oceania,Polynesia,776,1990,0
+230,Tuvalu,Oceania,Polynesia,798,1990,0
+231,Wallis and Futuna Islands,Oceania,Polynesia,876,1990,0
+232,Burundi,Africa,Eastern Africa,108,1995,67.8889398986867
+233,Comoros,Africa,Eastern Africa,174,1995,0.035870578951144275
+234,Djibouti,Africa,Eastern Africa,262,1995,27.3718604045142
+235,Eritrea,Africa,Eastern Africa,232,1995,8.733870967741936
+236,Ethiopia,Africa,Eastern Africa,231,1995,48.76404132337924
+237,Kenya,Africa,Eastern Africa,404,1995,37.92596303808516
+238,Madagascar,Africa,Eastern Africa,450,1995,0
+239,Malawi,Africa,Eastern Africa,454,1995,0.4213157633347681
+240,Mauritius,Africa,Eastern Africa,480,1995,0
+241,Mayotte,Africa,Eastern Africa,175,1995,0
+242,Mozambique,Africa,Eastern Africa,508,1995,0.07607455306200077
+243,Réunion,Africa,Eastern Africa,638,1995,0
+244,Rwanda,Africa,Eastern Africa,646,1995,10.830617495711834
+245,Seychelles,Africa,Eastern Africa,690,1995,0
+246,Somalia,Africa,Eastern Africa,706,1995,3.205817585906693
+247,South Sudan,Africa,Eastern Africa,728,1995,..
+248,Uganda,Africa,Eastern Africa,800,1995,36.139737165547885
+249,United Republic of Tanzania,Africa,Eastern Africa,834,1995,75.0125447202324
+250,Zambia,Africa,Eastern Africa,894,1995,53.190662115593966
+251,Zimbabwe,Africa,Eastern Africa,716,1995,0.11919503926015593
+252,Angola,Africa,Middle Africa,24,1995,28.643910280561624
+253,Cameroon,Africa,Middle Africa,120,1995,19.384762460302028
+254,Central African Republic,Africa,Middle Africa,140,1995,33.95378690629012
+255,Chad,Africa,Middle Africa,148,1995,0.11162707626361851
+256,Congo,Africa,Middle Africa,178,1995,10.125498995486211
+257,Democratic Republic of the Congo,Africa,Middle Africa,180,1995,78.90969711546136
+258,Equatorial Guinea,Africa,Middle Africa,226,1995,0
+259,Gabon,Africa,Middle Africa,266,1995,0.5170880945532517
+260,Sao Tome and Principe,Africa,Middle Africa,678,1995,0
+261,Algeria,Africa,Northern Africa,12,1995,73.4601117420773
+262,Egypt,Africa,Northern Africa,818,1995,3.2385972267976406
+263,Libya,Africa,Northern Africa,434,1995,0.7820234981034995
+264,Morocco,Africa,Northern Africa,504,1995,0.10921366163621922
+265,Sudan,Africa,Northern Africa,729,1995,63.99027526210466
+266,Tunisia,Africa,Northern Africa,788,1995,0.5255235429265587
+267,Western Sahara,Africa,Northern Africa,732,1995,0
+268,Botswana,Africa,Southern Africa,72,1995,0.6622186815375423
+269,Lesotho,Africa,Southern Africa,426,1995,15.491393670183232
+270,Namibia,Africa,Southern Africa,516,1995,1.4578927296051034
+271,South Africa,Africa,Southern Africa,710,1995,10.102340390134756
+272,Swaziland,Africa,Southern Africa,748,1995,2.84447285366146
+273,Benin,Africa,Western Africa,204,1995,2.207276295357765
+274,Burkina Faso,Africa,Western Africa,854,1995,0.11981198027816616
+275,Cabo Verde,Africa,Western Africa,132,1995,0
+276,Côte d'Ivoire,Africa,Western Africa,384,1995,14.347373379040778
+277,Gambia,Africa,Western Africa,270,1995,4.373384584796872
+278,Ghana,Africa,Western Africa,288,1995,32.901110807935815
+279,Guinea,Africa,Western Africa,324,1995,86.80357131329043
+280,Guinea-Bissau,Africa,Western Africa,624,1995,54.89789349451021
+281,Liberia,Africa,Western Africa,430,1995,57.57492939783183
+282,Mali,Africa,Western Africa,466,1995,10.168741167055458
+283,Mauritania,Africa,Western Africa,478,1995,38.40244746655948
+284,Niger,Africa,Western Africa,562,1995,18.919307666490866
+285,Nigeria,Africa,Western Africa,566,1995,1.7533515191177518
+286,Saint Helena,Africa,Western Africa,654,1995,0
+287,Senegal,Africa,Western Africa,686,1995,23.211566673851223
+288,Sierra Leone,Africa,Western Africa,694,1995,10.7711579706569
+289,Togo,Africa,Western Africa,768,1995,10.706515854030695
+290,Kazakhstan,Asia,Central Asia,398,1995,0.2724905631307295
+291,Kyrgyzstan,Asia,Central Asia,417,1995,1.0513505886779437
+292,Tajikistan,Asia,Central Asia,762,1995,0.17798344753937884
+293,Turkmenistan,Asia,Central Asia,795,1995,8.525578930053186
+294,Uzbekistan,Asia,Central Asia,860,1995,0.17367710866950906
+295,China,Asia,Eastern Asia,156,1995,65.52426740962194
+296,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,1995,0.2265326348577092
+297,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,1995,0
+298,Democratic People's Republic of Korea,Asia,Eastern Asia,408,1995,0
+299,Japan,Asia,Eastern Asia,392,1995,0.3853458518844078
+300,Mongolia,Asia,Eastern Asia,496,1995,0
+301,Republic of Korea,Asia,Eastern Asia,410,1995,0.004035968551733045
+302,Brunei Darussalam,Asia,South-Eastern Asia,96,1995,0
+303,Cambodia,Asia,South-Eastern Asia,116,1995,0.016263688604575516
+304,Indonesia,Asia,South-Eastern Asia,360,1995,0.05330377876293013
+305,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,1995,0
+306,Malaysia,Asia,South-Eastern Asia,458,1995,2.488136996355754
+307,Myanmar,Asia,South-Eastern Asia,104,1995,0
+308,Philippines,Asia,South-Eastern Asia,608,1995,0.3776314837589525
+309,Singapore,Asia,South-Eastern Asia,702,1995,0.011296107280744575
+310,Thailand,Asia,South-Eastern Asia,764,1995,13.160722224966657
+311,Timor-Leste,Asia,South-Eastern Asia,626,1995,0
+312,Viet Nam,Asia,South-Eastern Asia,704,1995,67.10623853926886
+313,Afghanistan,Asia,Southern Asia,4,1995,27.411146220743266
+314,Bangladesh,Asia,Southern Asia,50,1995,1.176376192182811
+315,Bhutan,Asia,Southern Asia,64,1995,0
+316,India,Asia,Southern Asia,356,1995,3.2720398812583804
+317,Iran (Islamic Republic of),Asia,Southern Asia,364,1995,70.53172788756251
+318,Maldives,Asia,Southern Asia,462,1995,0
+319,Nepal,Asia,Southern Asia,524,1995,18.07439603027998
+320,Pakistan,Asia,Southern Asia,586,1995,32.77165612698634
+321,Sri Lanka,Asia,Southern Asia,144,1995,0.03917631791581989
+322,Armenia,Asia,Western Asia,51,1995,31.549036814174087
+323,Azerbaijan,Asia,Western Asia,31,1995,67.91699363501613
+324,Bahrain,Asia,Western Asia,48,1995,0.43256836862010206
+325,Cyprus,Asia,Western Asia,196,1995,0.0920230541967356
+326,Georgia,Asia,Western Asia,268,1995,1.1492188902855092
+327,Iraq,Asia,Western Asia,368,1995,58.5190013035195
+328,Israel,Asia,Western Asia,376,1995,0.058643499415517934
+329,Jordan,Asia,Western Asia,400,1995,81.34541931966558
+330,Kuwait,Asia,Western Asia,414,1995,0.3585862201367964
+331,Lebanon,Asia,Western Asia,422,1995,56.33656253544698
+332,Oman,Asia,Western Asia,512,1995,0
+333,Qatar,Asia,Western Asia,634,1995,0
+334,Saudi Arabia,Asia,Western Asia,682,1995,0.25707136585341095
+335,State of Palestine,Asia,Western Asia,275,1995,411.380324878357
+336,Syrian Arab Republic,Asia,Western Asia,760,1995,43.78035419751748
+337,Turkey,Asia,Western Asia,792,1995,1.0558530735347686
+338,United Arab Emirates,Asia,Western Asia,784,1995,0.02231215305150215
+339,Yemen,Asia,Western Asia,887,1995,39.15540416804014
+340,Belarus,Europe,Eastern Europe,112,1995,0.015173457913042598
+341,Bulgaria,Europe,Eastern Europe,100,1995,4.069677817172807
+342,Czech Republic,Europe,Eastern Europe,203,1995,1.603338325522972
+343,Hungary,Europe,Eastern Europe,348,1995,3.7035198023796374
+344,Poland,Europe,Eastern Europe,616,1995,0.0621938894503615
+345,Republic of Moldova,Europe,Eastern Europe,498,1995,0
+346,Romania,Europe,Eastern Europe,642,1995,0.14366432903574575
+347,Russian Federation,Europe,Eastern Europe,643,1995,0
+348,Slovakia,Europe,Eastern Europe,703,1995,1.0761219220172238
+349,Ukraine,Europe,Eastern Europe,804,1995,0.08413343533682051
+350,Channel Islands,Europe,Northern Europe,830,1995,0
+351,Denmark,Europe,Northern Europe,208,1995,16.800612323000383
+352,Estonia,Europe,Northern Europe,233,1995,0.0003167012398853541
+353,Faeroe Islands,Europe,Northern Europe,234,1995,0
+354,Finland,Europe,Northern Europe,246,1995,7.644717183567468
+355,Iceland,Europe,Northern Europe,352,1995,1.1461767938451877
+356,Ireland,Europe,Northern Europe,372,1995,0.17629532993670996
+357,Isle of Man,Europe,Northern Europe,833,1995,0
+358,Latvia,Europe,Northern Europe,428,1995,0.0007433659237343731
+359,Lithuania,Europe,Northern Europe,440,1995,0
+360,Norway,Europe,Northern Europe,578,1995,20.405740199398206
+361,Sweden,Europe,Northern Europe,752,1995,21.2828330958033
+362,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,1995,2.187787961041496
+363,Albania,Europe,Southern Europe,8,1995,6.614905961824144
+364,Andorra,Europe,Southern Europe,20,1995,0
+365,Bosnia and Herzegovina,Europe,Southern Europe,70,1995,0
+366,Croatia,Europe,Southern Europe,191,1995,29.46913223109845
+367,Gibraltar,Europe,Southern Europe,292,1995,0
+368,Greece,Europe,Southern Europe,300,1995,0.5161741563210351
+369,Holy See,Europe,Southern Europe,336,1995,0
+370,Italy,Europe,Southern Europe,380,1995,0.5300419053113489
+371,Malta,Europe,Southern Europe,470,1995,2.344983089064262
+372,Montenegro,Europe,Southern Europe,499,1995,..
+373,Portugal,Europe,Southern Europe,620,1995,0.04654462465889171
+374,San Marino,Europe,Southern Europe,674,1995,0
+375,Serbia,Europe,Southern Europe,688,1995,65.04718186160093
+376,Slovenia,Europe,Southern Europe,705,1995,12.793331001783063
+377,Spain,Europe,Southern Europe,724,1995,0.5736878067813193
+378,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,1995,8.274878135774582
+379,Austria,Europe,Western Europe,40,1995,4.802808827424061
+380,Belgium,Europe,Western Europe,56,1995,3.5797794591077605
+381,France,Europe,Western Europe,250,1995,2.550019357775214
+382,Germany,Europe,Western Europe,276,1995,16.985946370012563
+383,Liechtenstein,Europe,Western Europe,438,1995,0
+384,Luxembourg,Europe,Western Europe,442,1995,0.5550885762771002
+385,Monaco,Europe,Western Europe,492,1995,0
+386,Netherlands,Europe,Western Europe,528,1995,5.939840910914272
+387,Switzerland,Europe,Western Europe,756,1995,5.608694446754831
+388,Anguilla,Latin America and the Carribean,Caribbean,660,1995,0
+389,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,1995,0
+390,Aruba,Latin America and the Carribean,Caribbean,533,1995,0
+391,Bahamas,Latin America and the Carribean,Caribbean,44,1995,0.1579579200101093
+392,Barbados,Latin America and the Carribean,Caribbean,52,1995,0
+393,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,1995,0
+394,British Virgin Islands,Latin America and the Carribean,Caribbean,92,1995,0
+395,Cayman Islands,Latin America and the Carribean,Caribbean,136,1995,0
+396,Cuba,Latin America and the Carribean,Caribbean,192,1995,9.45125443922557
+397,Curaçao,Latin America and the Carribean,Caribbean,531,1995,..
+398,Dominica,Latin America and the Carribean,Caribbean,212,1995,0
+399,Dominican Republic,Latin America and the Carribean,Caribbean,214,1995,0.30459427115384025
+400,Grenada,Latin America and the Carribean,Caribbean,308,1995,0
+401,Guadeloupe,Latin America and the Carribean,Caribbean,312,1995,0
+402,Haiti,Latin America and the Carribean,Caribbean,332,1995,0
+403,Jamaica,Latin America and the Carribean,Caribbean,388,1995,0.0836525337912209
+404,Martinique,Latin America and the Carribean,Caribbean,474,1995,0
+405,Montserrat,Latin America and the Carribean,Caribbean,500,1995,0
+406,Puerto Rico,Latin America and the Carribean,Caribbean,630,1995,0
+407,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,1995,0
+408,Saint Lucia,Latin America and the Carribean,Caribbean,662,1995,0
+409,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,1995,0
+410,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,1995,..
+411,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,1995,0
+412,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,1995,0
+413,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,1995,0
+414,Belize,Latin America and the Carribean,Central America,84,1995,26.16157388028464
+415,Costa Rica,Latin America and the Carribean,Central America,188,1995,6.650251038329669
+416,El Salvador,Latin America and the Carribean,Central America,222,1995,25.998431848648103
+417,Guatemala,Latin America and the Carribean,Central America,320,1995,71.69756959561553
+418,Honduras,Latin America and the Carribean,Central America,340,1995,79.34717147789779
+419,Mexico,Latin America and the Carribean,Central America,484,1995,8.44337246401148
+420,Nicaragua,Latin America and the Carribean,Central America,558,1995,2.167624629024381
+421,Panama,Latin America and the Carribean,Central America,591,1995,1.2237466124661247
+422,Argentina,Latin America and the Carribean,South America,32,1995,0.45628120162826813
+423,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,1995,0.8193975932438575
+424,Brazil,Latin America and the Carribean,South America,76,1995,2.6437617067872057
+425,Chile,Latin America and the Carribean,South America,152,1995,0.18396680171608726
+426,Colombia,Latin America and the Carribean,South America,170,1995,0.38151164639106816
+427,Ecuador,Latin America and the Carribean,South America,218,1995,0.6916146073175606
+428,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,1995,0
+429,French Guiana,Latin America and the Carribean,South America,254,1995,4.706905648001597
+430,Guyana,Latin America and the Carribean,South America,328,1995,0
+431,Paraguay,Latin America and the Carribean,South America,600,1995,0.03215951117543013
+432,Peru,Latin America and the Carribean,South America,604,1995,1.075230910244659
+433,Suriname,Latin America and the Carribean,South America,740,1995,0
+434,Uruguay,Latin America and the Carribean,South America,858,1995,0.14128526779980305
+435,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,1995,0.1581378750504904
+436,Bermuda,North America,Northern America,60,1995,0
+437,Canada,North America,Northern America,124,1995,3.12706972445608
+438,Greenland,North America,Northern America,304,1995,0
+439,Saint Pierre and Miquelon,North America,Northern America,666,1995,0
+440,United States of America,North America,Northern America,840,1995,2.1907589852649743
+441,Australia,Oceania,Australia and New Zealand,36,1995,1.904038446258785
+442,New Zealand,Oceania,Australia and New Zealand,554,1995,0.6384457125771087
+443,Fiji,Oceania,Melanesia,242,1995,0
+444,New Caledonia,Oceania,Melanesia,540,1995,0
+445,Papua New Guinea,Oceania,Melanesia,598,1995,28.637475392232894
+446,Solomon Islands,Oceania,Melanesia,90,1995,0
+447,Vanuatu,Oceania,Melanesia,548,1995,0
+448,Guam,Oceania,Micronesia,316,1995,0
+449,Kiribati,Oceania,Micronesia,296,1995,0
+450,Marshall Islands,Oceania,Micronesia,584,1995,0
+451,Micronesia (Federated States of),Oceania,Micronesia,583,1995,0
+452,Nauru,Oceania,Micronesia,520,1995,0
+453,Northern Mariana Islands,Oceania,Micronesia,580,1995,0
+454,Palau,Oceania,Micronesia,585,1995,0
+455,American Samoa,Oceania,Polynesia,16,1995,0
+456,Cook Islands,Oceania,Polynesia,184,1995,0
+457,French Polynesia,Oceania,Polynesia,258,1995,0
+458,Niue,Oceania,Polynesia,570,1995,0
+459,Samoa,Oceania,Polynesia,882,1995,0
+460,Tokelau,Oceania,Polynesia,772,1995,0
+461,Tonga,Oceania,Polynesia,776,1995,0
+462,Tuvalu,Oceania,Polynesia,798,1995,0
+463,Wallis and Futuna Islands,Oceania,Polynesia,876,1995,0
+464,Burundi,Africa,Eastern Africa,108,2000,21.600280192313814
+465,Comoros,Africa,Eastern Africa,174,2000,0.07246901949416625
+466,Djibouti,Africa,Eastern Africa,262,2000,23.13968181320704
+467,Eritrea,Africa,Eastern Africa,232,2000,15.31809759110562
+468,Ethiopia,Africa,Eastern Africa,231,2000,32.3788322887089
+469,Kenya,Africa,Eastern Africa,404,2000,29.47997465453937
+470,Madagascar,Africa,Eastern Africa,450,2000,0.2123953952678306
+471,Malawi,Africa,Eastern Africa,454,2000,1.6765540366262575
+472,Mauritius,Africa,Eastern Africa,480,2000,0
+473,Mayotte,Africa,Eastern Africa,175,2000,0
+474,Mozambique,Africa,Eastern Africa,508,2000,0.10577306312659043
+475,Réunion,Africa,Eastern Africa,638,2000,0
+476,Rwanda,Africa,Eastern Africa,646,2000,8.677638327052287
+477,Seychelles,Africa,Eastern Africa,690,2000,0
+478,Somalia,Africa,Eastern Africa,706,2000,2.7779160651167425
+479,South Sudan,Africa,Eastern Africa,728,2000,..
+480,Uganda,Africa,Eastern Africa,800,2000,37.28074390699272
+481,United Republic of Tanzania,Africa,Eastern Africa,834,2000,73.35452175224633
+482,Zambia,Africa,Eastern Africa,894,2000,71.19753897505036
+483,Zimbabwe,Africa,Eastern Africa,716,2000,1.0064847173819205
+484,Angola,Africa,Middle Africa,24,2000,27.281599722390908
+485,Cameroon,Africa,Middle Africa,120,2000,20.340393111571352
+486,Central African Republic,Africa,Middle Africa,140,2000,45.05905495875462
+487,Chad,Africa,Middle Africa,148,2000,16.877653231576435
+488,Congo,Africa,Middle Africa,178,2000,40.389899082628965
+489,Democratic Republic of the Congo,Africa,Middle Africa,180,2000,44.66883489367762
+490,Equatorial Guinea,Africa,Middle Africa,226,2000,0
+491,Gabon,Africa,Middle Africa,266,2000,9.194614743494691
+492,Sao Tome and Principe,Africa,Middle Africa,678,2000,0
+493,Algeria,Africa,Northern Africa,12,2000,66.95174123385709
+494,Egypt,Africa,Northern Africa,818,2000,3.8610105389387264
+495,Libya,Africa,Northern Africa,434,2000,2.0342382224603304
+496,Morocco,Africa,Northern Africa,504,2000,3.9691518648414226
+497,Sudan,Africa,Northern Africa,729,2000,51.74420707260287
+498,Tunisia,Africa,Northern Africa,788,2000,0.4801624320913132
+499,Western Sahara,Africa,Northern Africa,732,2000,0
+500,Botswana,Africa,Southern Africa,72,2000,6.222837515771765
+501,Lesotho,Africa,Southern Africa,426,2000,0.016215339711366954
+502,Namibia,Africa,Southern Africa,516,2000,20.284517458687677
+503,South Africa,Africa,Southern Africa,710,2000,1.5035560102812369
+504,Swaziland,Africa,Southern Africa,748,2000,3.01903303434697
+505,Benin,Africa,Western Africa,204,2000,2.9739026396470503
+506,Burkina Faso,Africa,Western Africa,854,2000,0.13191318343431935
+507,Cabo Verde,Africa,Western Africa,132,2000,0
+508,Côte d'Ivoire,Africa,Western Africa,384,2000,6.052298364955231
+509,Gambia,Africa,Western Africa,270,2000,6.583604545404737
+510,Ghana,Africa,Western Africa,288,2000,6.7802360112943045
+511,Guinea,Africa,Western Africa,324,2000,76.27657010221846
+512,Guinea-Bissau,Africa,Western Africa,624,2000,37.100244498777506
+513,Liberia,Africa,Western Africa,430,2000,45.641609819053386
+514,Mali,Africa,Western Africa,466,2000,4.439635835862251
+515,Mauritania,Africa,Western Africa,478,2000,0.6101174911968762
+516,Niger,Africa,Western Africa,562,2000,0.047439882218223456
+517,Nigeria,Africa,Western Africa,566,2000,1.4901144129113186
+518,Saint Helena,Africa,Western Africa,654,2000,0
+519,Senegal,Africa,Western Africa,686,2000,9.795128093453672
+520,Sierra Leone,Africa,Western Africa,694,2000,6.663205789843345
+521,Togo,Africa,Western Africa,768,2000,8.864247847937865
+522,Kazakhstan,Asia,Central Asia,398,2000,0.6159231010343746
+523,Kyrgyzstan,Asia,Central Asia,417,2000,2.7541470076342933
+524,Tajikistan,Asia,Central Asia,762,2000,5.133894261292629
+525,Turkmenistan,Asia,Central Asia,795,2000,6.493423280762295
+526,Uzbekistan,Asia,Central Asia,860,2000,2.7290517701476604
+527,China,Asia,Eastern Asia,156,2000,57.81207556974534
+528,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,2000,0.03667872806113771
+529,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,2000,0
+530,Democratic People's Republic of Korea,Asia,Eastern Asia,408,2000,0
+531,Japan,Asia,Eastern Asia,392,2000,0.22246373846992146
+532,Mongolia,Asia,Eastern Asia,496,2000,0
+533,Republic of Korea,Asia,Eastern Asia,410,2000,0.00245722382851854
+534,Brunei Darussalam,Asia,South-Eastern Asia,96,2000,0
+535,Cambodia,Asia,South-Eastern Asia,116,2000,0.023274121230790295
+536,Indonesia,Asia,South-Eastern Asia,360,2000,48.771326037351145
+537,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,2000,0
+538,Malaysia,Asia,South-Eastern Asia,458,2000,3.9528727559713532
+539,Myanmar,Asia,South-Eastern Asia,104,2000,0
+540,Philippines,Asia,South-Eastern Asia,608,2000,0.055329382731573895
+541,Singapore,Asia,South-Eastern Asia,702,2000,0
+542,Thailand,Asia,South-Eastern Asia,764,2000,8.344987084807775
+543,Timor-Leste,Asia,South-Eastern Asia,626,2000,0
+544,Viet Nam,Asia,South-Eastern Asia,704,2000,28.0949360397505
+545,Afghanistan,Asia,Southern Asia,4,2000,0
+546,Bangladesh,Asia,Southern Asia,50,2000,2.218852400104064
+547,Bhutan,Asia,Southern Asia,64,2000,0
+548,India,Asia,Southern Asia,356,2000,2.666257179542531
+549,Iran (Islamic Republic of),Asia,Southern Asia,364,2000,66.04753183620117
+550,Maldives,Asia,Southern Asia,462,2000,0
+551,Nepal,Asia,Southern Asia,524,2000,18.002089427496866
+552,Pakistan,Asia,Southern Asia,586,2000,47.86006974800044
+553,Sri Lanka,Asia,Southern Asia,144,2000,0.03986843416724808
+554,Armenia,Asia,Western Asia,51,2000,42.64949080407357
+555,Azerbaijan,Asia,Western Asia,31,2000,16.688954020882946
+556,Bahrain,Asia,Western Asia,48,2000,0.00041777900326285403
+557,Cyprus,Asia,Western Asia,196,2000,0.12113492182426694
+558,Georgia,Asia,Western Asia,268,2000,2.92772186642269
+559,Iraq,Asia,Western Asia,368,2000,60.69920437002732
+560,Israel,Asia,Western Asia,376,2000,0.1135412834918428
+561,Jordan,Asia,Western Asia,400,2000,81.50209171380479
+562,Kuwait,Asia,Western Asia,414,2000,0.2461778581816892
+563,Lebanon,Asia,Western Asia,422,2000,54.8256418915506
+564,Oman,Asia,Western Asia,512,2000,0
+565,Qatar,Asia,Western Asia,634,2000,0.008618364901569931
+566,Saudi Arabia,Asia,Western Asia,682,2000,0.1008666092764982
+567,State of Palestine,Asia,Western Asia,275,2000,511.4901054498151
+568,Syrian Arab Republic,Asia,Western Asia,760,2000,46.639504105023235
+569,Turkey,Asia,Western Asia,792,2000,0.2422396275302253
+570,United Arab Emirates,Asia,Western Asia,784,2000,0.022969949012435244
+571,Yemen,Asia,Western Asia,887,2000,42.16941356841702
+572,Belarus,Europe,Eastern Europe,112,2000,0.031951270307746804
+573,Bulgaria,Europe,Eastern Europe,100,2000,3.3994464944649443
+574,Czech Republic,Europe,Eastern Europe,203,2000,0.5475816277079021
+575,Hungary,Europe,Eastern Europe,348,2000,1.6928376835703485
+576,Poland,Europe,Eastern Europe,616,2000,0.12359875965009433
+577,Republic of Moldova,Europe,Eastern Europe,498,2000,0.0274383846861533
+578,Romania,Europe,Eastern Europe,642,2000,1.3273046656531362
+579,Russian Federation,Europe,Eastern Europe,643,2000,0.22070877726833205
+580,Slovakia,Europe,Eastern Europe,703,2000,0.39269265140578813
+581,Ukraine,Europe,Eastern Europe,804,2000,0.05339159669460604
+582,Channel Islands,Europe,Northern Europe,830,2000,0
+583,Denmark,Europe,Northern Europe,208,2000,18.872262321238942
+584,Estonia,Europe,Northern Europe,233,2000,0.0008015646542050083
+585,Faeroe Islands,Europe,Northern Europe,234,2000,0
+586,Finland,Europe,Northern Europe,246,2000,9.59817331483154
+587,Iceland,Europe,Northern Europe,352,2000,1.5668260760130885
+588,Ireland,Europe,Northern Europe,372,2000,0.7670759259681873
+589,Isle of Man,Europe,Northern Europe,833,2000,0
+590,Latvia,Europe,Northern Europe,428,2000,0.0016272333778110455
+591,Lithuania,Europe,Northern Europe,440,2000,0.0256636383573405
+592,Norway,Europe,Northern Europe,578,2000,16.3086445082752
+593,Sweden,Europe,Northern Europe,752,2000,15.66251377269132
+594,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,2000,3.9374524990143054
+595,Albania,Europe,Southern Europe,8,2000,0.6884412282417368
+596,Andorra,Europe,Southern Europe,20,2000,0
+597,Bosnia and Herzegovina,Europe,Southern Europe,70,2000,45.992863342655994
+598,Croatia,Europe,Southern Europe,191,2000,3.8334318586429474
+599,Gibraltar,Europe,Southern Europe,292,2000,0
+600,Greece,Europe,Southern Europe,300,2000,0.5818299577660536
+601,Holy See,Europe,Southern Europe,336,2000,0
+602,Italy,Europe,Southern Europe,380,2000,0.30339050793519123
+603,Malta,Europe,Southern Europe,470,2000,0.8828586032247572
+604,Montenegro,Europe,Southern Europe,499,2000,..
+605,Portugal,Europe,Southern Europe,620,2000,0.06646486725446374
+606,San Marino,Europe,Southern Europe,674,2000,0
+607,Serbia,Europe,Southern Europe,688,2000,42.402974918384665
+608,Slovenia,Europe,Southern Europe,705,2000,1.64661029833117
+609,Spain,Europe,Southern Europe,724,2000,0.42159314782913015
+610,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,2000,7.201687025026857
+611,Austria,Europe,Western Europe,40,2000,4.895604522415902
+612,Belgium,Europe,Western Europe,56,2000,2.206782763376687
+613,France,Europe,Western Europe,250,2000,2.088244765890107
+614,Germany,Europe,Western Europe,276,2000,10.074915783823442
+615,Liechtenstein,Europe,Western Europe,438,2000,0.4521087644513337
+616,Luxembourg,Europe,Western Europe,442,2000,0.5431127012522362
+617,Monaco,Europe,Western Europe,492,2000,0
+618,Netherlands,Europe,Western Europe,528,2000,9.392567291017304
+619,Switzerland,Europe,Western Europe,756,2000,3.6703982031582245
+620,Anguilla,Latin America and the Carribean,Caribbean,660,2000,0
+621,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,2000,0
+622,Aruba,Latin America and the Carribean,Caribbean,533,2000,0
+623,Bahamas,Latin America and the Carribean,Caribbean,44,2000,0.27431831897734127
+624,Barbados,Latin America and the Carribean,Caribbean,52,2000,0
+625,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,2000,0
+626,British Virgin Islands,Latin America and the Carribean,Caribbean,92,2000,0
+627,Cayman Islands,Latin America and the Carribean,Caribbean,136,2000,0
+628,Cuba,Latin America and the Carribean,Caribbean,192,2000,5.393422381861039
+629,Curaçao,Latin America and the Carribean,Caribbean,531,2000,..
+630,Dominica,Latin America and the Carribean,Caribbean,212,2000,0
+631,Dominican Republic,Latin America and the Carribean,Caribbean,214,2000,0.14341513620219848
+632,Grenada,Latin America and the Carribean,Caribbean,308,2000,0
+633,Guadeloupe,Latin America and the Carribean,Caribbean,312,2000,0
+634,Haiti,Latin America and the Carribean,Caribbean,332,2000,0
+635,Jamaica,Latin America and the Carribean,Caribbean,388,2000,0.15229240141070857
+636,Martinique,Latin America and the Carribean,Caribbean,474,2000,0
+637,Montserrat,Latin America and the Carribean,Caribbean,500,2000,0
+638,Puerto Rico,Latin America and the Carribean,Caribbean,630,2000,0
+639,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,2000,0
+640,Saint Lucia,Latin America and the Carribean,Caribbean,662,2000,0
+641,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,2000,0
+642,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,2000,..
+643,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,2000,0
+644,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,2000,0
+645,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,2000,0
+646,Belize,Latin America and the Carribean,Central America,84,2000,26.8910326682745
+647,Costa Rica,Latin America and the Carribean,Central America,188,2000,2.1251278357013756
+648,El Salvador,Latin America and the Carribean,Central America,222,2000,0.13243780153249457
+649,Guatemala,Latin America and the Carribean,Central America,320,2000,1.5087595336561441
+650,Honduras,Latin America and the Carribean,Central America,340,2000,0.038649379853132354
+651,Mexico,Latin America and the Carribean,Central America,484,2000,3.429228827750529
+652,Nicaragua,Latin America and the Carribean,Central America,558,2000,1.0925005758662674
+653,Panama,Latin America and the Carribean,Central America,591,2000,1.574151780362067
+654,Argentina,Latin America and the Carribean,South America,32,2000,0.15393914761472233
+655,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,2000,0.38205011979537656
+656,Brazil,Latin America and the Carribean,South America,76,2000,0
+657,Chile,Latin America and the Carribean,South America,152,2000,0.19398642095053348
+658,Colombia,Latin America and the Carribean,South America,170,2000,0.21439845268180535
+659,Ecuador,Latin America and the Carribean,South America,218,2000,0.6322472495924711
+660,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,2000,0
+661,French Guiana,Latin America and the Carribean,South America,254,2000,0
+662,Guyana,Latin America and the Carribean,South America,328,2000,0
+663,Paraguay,Latin America and the Carribean,South America,600,2000,0.013023192607356404
+664,Peru,Latin America and the Carribean,South America,604,2000,1.0363085091940327
+665,Suriname,Latin America and the Carribean,South America,740,2000,0.0036355704209990545
+666,Uruguay,Latin America and the Carribean,South America,858,2000,0.08889288969405093
+667,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,2000,0.01302207933011267
+668,Bermuda,North America,Northern America,60,2000,0
+669,Canada,North America,Northern America,124,2000,2.270608721398774
+670,Greenland,North America,Northern America,304,2000,0
+671,Saint Pierre and Miquelon,North America,Northern America,666,2000,0
+672,United States of America,North America,Northern America,840,2000,1.4598185393697194
+673,Australia,Oceania,Australia and New Zealand,36,2000,1.624303220290681
+674,New Zealand,Oceania,Australia and New Zealand,554,2000,0.7252365526293691
+675,Fiji,Oceania,Melanesia,242,2000,0
+676,New Caledonia,Oceania,Melanesia,540,2000,0
+677,Papua New Guinea,Oceania,Melanesia,598,2000,23.35763515397793
+678,Solomon Islands,Oceania,Melanesia,90,2000,0
+679,Vanuatu,Oceania,Melanesia,548,2000,0
+680,Guam,Oceania,Micronesia,316,2000,0
+681,Kiribati,Oceania,Micronesia,296,2000,0
+682,Marshall Islands,Oceania,Micronesia,584,2000,0
+683,Micronesia (Federated States of),Oceania,Micronesia,583,2000,0
+684,Nauru,Oceania,Micronesia,520,2000,0
+685,Northern Mariana Islands,Oceania,Micronesia,580,2000,0
+686,Palau,Oceania,Micronesia,585,2000,0
+687,American Samoa,Oceania,Polynesia,16,2000,0
+688,Cook Islands,Oceania,Polynesia,184,2000,0
+689,French Polynesia,Oceania,Polynesia,258,2000,0
+690,Niue,Oceania,Polynesia,570,2000,0
+691,Samoa,Oceania,Polynesia,882,2000,0
+692,Tokelau,Oceania,Polynesia,772,2000,0
+693,Tonga,Oceania,Polynesia,776,2000,0
+694,Tuvalu,Oceania,Polynesia,798,2000,0
+695,Wallis and Futuna Islands,Oceania,Polynesia,876,2000,0
+696,Burundi,Africa,Eastern Africa,108,2005,11.963048231660053
+697,Comoros,Africa,Eastern Africa,174,2005,0.03785297902944962
+698,Djibouti,Africa,Eastern Africa,262,2005,11.35398681738715
+699,Eritrea,Africa,Eastern Africa,232,2005,30.864887522705043
+700,Ethiopia,Africa,Eastern Africa,231,2005,19.604971978173698
+701,Kenya,Africa,Eastern Africa,404,2005,33.19764722669225
+702,Madagascar,Africa,Eastern Africa,450,2005,0
+703,Malawi,Africa,Eastern Africa,454,2005,1.9128308543225916
+704,Mauritius,Africa,Eastern Africa,480,2005,0
+705,Mayotte,Africa,Eastern Africa,175,2005,0
+706,Mozambique,Africa,Eastern Africa,508,2005,0.9539618219987306
+707,Réunion,Africa,Eastern Africa,638,2005,0
+708,Rwanda,Africa,Eastern Africa,646,2005,13.659290614306476
+709,Seychelles,Africa,Eastern Africa,690,2005,0
+710,Somalia,Africa,Eastern Africa,706,2005,2.3850991775520076
+711,South Sudan,Africa,Eastern Africa,728,2005,..
+712,Uganda,Africa,Eastern Africa,800,2005,39.39794905722792
+713,United Republic of Tanzania,Africa,Eastern Africa,834,2005,71.19761923912169
+714,Zambia,Africa,Eastern Africa,894,2005,61.6097393065848
+715,Zimbabwe,Africa,Eastern Africa,716,2005,1.129380966811224
+716,Angola,Africa,Middle Africa,24,2005,22.610836635197053
+717,Cameroon,Africa,Middle Africa,120,2005,20.113860793006026
+718,Central African Republic,Africa,Middle Africa,140,2005,26.012980550349923
+719,Chad,Africa,Middle Africa,148,2005,78.22826661213081
+720,Congo,Africa,Middle Africa,178,2005,20.96035376445733
+721,Democratic Republic of the Congo,Africa,Middle Africa,180,2005,32.806416758580056
+722,Equatorial Guinea,Africa,Middle Africa,226,2005,0
+723,Gabon,Africa,Middle Africa,266,2005,3.9906969358733066
+724,Sao Tome and Principe,Africa,Middle Africa,678,2005,0
+725,Algeria,Africa,Northern Africa,12,2005,38.014923021608894
+726,Egypt,Africa,Northern Africa,818,2005,32.46192532144043
+727,Libya,Africa,Northern Africa,434,2005,1.94589995073671
+728,Morocco,Africa,Northern Africa,504,2005,0.4027289946486695
+729,Sudan,Africa,Northern Africa,729,2005,27.169304457244912
+730,Tunisia,Africa,Northern Africa,788,2005,0.3224885844748858
+731,Western Sahara,Africa,Northern Africa,732,2005,0
+732,Botswana,Africa,Southern Africa,72,2005,3.499983113622803
+733,Lesotho,Africa,Southern Africa,426,2005,0.01589825119236884
+734,Namibia,Africa,Southern Africa,516,2005,4.993695541712931
+735,South Africa,Africa,Southern Africa,710,2005,2.4538043298737504
+736,Swaziland,Africa,Southern Africa,748,2005,2.804738531940805
+737,Benin,Africa,Western Africa,204,2005,3.2408352235290003
+738,Burkina Faso,Africa,Western Africa,854,2005,0.10201483486662691
+739,Cabo Verde,Africa,Western Africa,132,2005,0
+740,Côte d'Ivoire,Africa,Western Africa,384,2005,2.070146367857157
+741,Gambia,Africa,Western Africa,270,2005,4.396800527748
+742,Ghana,Africa,Western Africa,288,2005,17.58563376210435
+743,Guinea,Africa,Western Africa,324,2005,27.66635744803167
+744,Guinea-Bissau,Africa,Western Africa,624,2005,36.7283950617284
+745,Liberia,Africa,Western Africa,430,2005,11.662155342478323
+746,Mali,Africa,Western Africa,466,2005,4.374272285112365
+747,Mauritania,Africa,Western Africa,478,2005,1.0874240781844147
+748,Niger,Africa,Western Africa,562,2005,0.2418428262668627
+749,Nigeria,Africa,Western Africa,566,2005,1.3917801792848665
+750,Saint Helena,Africa,Western Africa,654,2005,0
+751,Senegal,Africa,Western Africa,686,2005,9.794878681314993
+752,Sierra Leone,Africa,Western Africa,694,2005,40.0795374795308
+753,Togo,Africa,Western Africa,768,2005,4.566351491550258
+754,Kazakhstan,Asia,Central Asia,398,2005,0.2341311301910884
+755,Kyrgyzstan,Asia,Central Asia,417,2005,2.107402755539363
+756,Tajikistan,Asia,Central Asia,762,2005,0.36299582091255295
+757,Turkmenistan,Asia,Central Asia,795,2005,5.6150874673200315
+758,Uzbekistan,Asia,Central Asia,860,2005,3.306139489748711
+759,China,Asia,Eastern Asia,156,2005,43.79517105164321
+760,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,2005,0.020836127714071003
+761,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,2005,0
+762,Democratic People's Republic of Korea,Asia,Eastern Asia,408,2005,0
+763,Japan,Asia,Eastern Asia,392,2005,0.09642727267307727
+764,Mongolia,Asia,Eastern Asia,496,2005,0
+765,Republic of Korea,Asia,Eastern Asia,410,2005,0.014210805979248106
+766,Brunei Darussalam,Asia,South-Eastern Asia,96,2005,0
+767,Cambodia,Asia,South-Eastern Asia,116,2005,0.11400408660802765
+768,Indonesia,Asia,South-Eastern Asia,360,2005,0.13986352083103104
+769,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,2005,0
+770,Malaysia,Asia,South-Eastern Asia,458,2005,1.9562294175844084
+771,Myanmar,Asia,South-Eastern Asia,104,2005,0
+772,Philippines,Asia,South-Eastern Asia,608,2005,0.03728618702129974
+773,Singapore,Asia,South-Eastern Asia,702,2005,0.0001753776758248889
+774,Thailand,Asia,South-Eastern Asia,764,2005,5.4104861362446135
+775,Timor-Leste,Asia,South-Eastern Asia,626,2005,0.026581605528973953
+776,Viet Nam,Asia,South-Eastern Asia,704,2005,4.553005717817957
+777,Afghanistan,Asia,Southern Asia,4,2005,0.03665521191294387
+778,Bangladesh,Asia,Southern Asia,50,2005,10.764206736950372
+779,Bhutan,Asia,Southern Asia,64,2005,0
+780,India,Asia,Southern Asia,356,2005,2.3513068480505743
+781,Iran (Islamic Republic of),Asia,Southern Asia,364,2005,37.926374015640754
+782,Maldives,Asia,Southern Asia,462,2005,0
+783,Nepal,Asia,Southern Asia,524,2005,18.608388757493117
+784,Pakistan,Asia,Southern Asia,586,2005,34.20526171726689
+785,Sri Lanka,Asia,Southern Asia,144,2005,0.26817790821231596
+786,Armenia,Asia,Western Asia,51,2005,46.80049198604192
+787,Azerbaijan,Asia,Western Asia,31,2005,1.15975117464099
+788,Bahrain,Asia,Western Asia,48,2005,0.020543639144790578
+789,Cyprus,Asia,Western Asia,196,2005,0.5983015405624547
+790,Georgia,Asia,Western Asia,268,2005,1.7617176747328644
+791,Iraq,Asia,Western Asia,368,2005,37.75119437234323
+792,Israel,Asia,Western Asia,376,2005,0.08192630548879784
+793,Jordan,Asia,Western Asia,400,2005,84.80580232165111
+794,Kuwait,Asia,Western Asia,414,2005,0.11422554257132722
+795,Lebanon,Asia,Western Asia,422,2005,55.661721178037595
+796,Oman,Asia,Western Asia,512,2005,0.0010507986069412754
+797,Qatar,Asia,Western Asia,634,2005,0.007120456452217093
+798,Saudi Arabia,Asia,Western Asia,682,2005,3.702056301475018
+799,State of Palestine,Asia,Western Asia,275,2005,630.6987176361598
+800,Syrian Arab Republic,Asia,Western Asia,760,2005,51.80760146506772
+801,Turkey,Asia,Western Asia,792,2005,0.18184767547277364
+802,United Arab Emirates,Asia,Western Asia,784,2005,0.0031697305363305984
+803,Yemen,Asia,Western Asia,887,2005,47.89592746955978
+804,Belarus,Europe,Eastern Europe,112,2005,0.042819124430207536
+805,Bulgaria,Europe,Eastern Europe,100,2005,7.225660673936536
+806,Czech Republic,Europe,Eastern Europe,203,2005,0.5670614497426676
+807,Hungary,Europe,Eastern Europe,348,2005,2.193643722378383
+808,Poland,Europe,Eastern Europe,616,2005,0.6372238961729196
+809,Republic of Moldova,Europe,Eastern Europe,498,2005,0.0482877952597481
+810,Romania,Europe,Eastern Europe,642,2005,1.4163486311844697
+811,Russian Federation,Europe,Eastern Europe,643,2005,0.013053254880100324
+812,Slovakia,Europe,Eastern Europe,703,2005,0.28201178625345813
+813,Ukraine,Europe,Eastern Europe,804,2005,0.04645266758304751
+814,Channel Islands,Europe,Northern Europe,830,2005,0
+815,Denmark,Europe,Northern Europe,208,2005,9.984944922942075
+816,Estonia,Europe,Northern Europe,233,2005,0.008985840882152837
+817,Faeroe Islands,Europe,Northern Europe,234,2005,0
+818,Finland,Europe,Northern Europe,246,2005,5.671570336526703
+819,Iceland,Europe,Northern Europe,352,2005,0.6511846853914953
+820,Ireland,Europe,Northern Europe,372,2005,1.2075457604329713
+821,Isle of Man,Europe,Northern Europe,833,2005,0
+822,Latvia,Europe,Northern Europe,428,2005,0.010086933439511581
+823,Lithuania,Europe,Northern Europe,440,2005,0.26390469611200296
+824,Norway,Europe,Northern Europe,578,2005,11.916022417650577
+825,Sweden,Europe,Northern Europe,752,2005,6.654438216718926
+826,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,2005,5.115980747047496
+827,Albania,Europe,Southern Europe,8,2005,0.14056442021038323
+828,Andorra,Europe,Southern Europe,20,2005,0
+829,Bosnia and Herzegovina,Europe,Southern Europe,70,2005,22.778811981722797
+830,Croatia,Europe,Southern Europe,191,2005,0.5052885254448248
+831,Gibraltar,Europe,Southern Europe,292,2005,0
+832,Greece,Europe,Southern Europe,300,2005,0.20072108419619603
+833,Holy See,Europe,Southern Europe,336,2005,0
+834,Italy,Europe,Southern Europe,380,2005,0.5227837634868097
+835,Malta,Europe,Southern Europe,470,2005,7.894951140065147
+836,Montenegro,Europe,Southern Europe,499,2005,..
+837,Portugal,Europe,Southern Europe,620,2005,0.047070478640635696
+838,San Marino,Europe,Southern Europe,674,2005,0
+839,Serbia,Europe,Southern Europe,688,2005,16.396369746308217
+840,Slovenia,Europe,Southern Europe,705,2005,0.12723291226504999
+841,Spain,Europe,Southern Europe,724,2005,0.13084256868260963
+842,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,2005,0.9979086216485075
+843,Austria,Europe,Western Europe,40,2005,4.0227234724141265
+844,Belgium,Europe,Western Europe,56,2005,1.7548130473025576
+845,France,Europe,Western Europe,250,2005,2.038055093801947
+846,Germany,Europe,Western Europe,276,2005,6.79682614892865
+847,Liechtenstein,Europe,Western Europe,438,2005,0.7937347867499207
+848,Luxembourg,Europe,Western Europe,442,2005,1.209682773639273
+849,Monaco,Europe,Western Europe,492,2005,0
+850,Netherlands,Europe,Western Europe,528,2005,6.807624096624268
+851,Switzerland,Europe,Western Europe,756,2005,2.660297756166513
+852,Anguilla,Latin America and the Carribean,Caribbean,660,2005,0
+853,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,2005,0
+854,Aruba,Latin America and the Carribean,Caribbean,533,2005,0
+855,Bahamas,Latin America and the Carribean,Caribbean,44,2005,0.14036626823116571
+856,Barbados,Latin America and the Carribean,Caribbean,52,2005,0
+857,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,2005,0
+858,British Virgin Islands,Latin America and the Carribean,Caribbean,92,2005,0.0072421784472769405
+859,Cayman Islands,Latin America and the Carribean,Caribbean,136,2005,0.004617871161394597
+860,Cuba,Latin America and the Carribean,Caribbean,192,2005,4.029841978499677
+861,Curaçao,Latin America and the Carribean,Caribbean,531,2005,..
+862,Dominica,Latin America and the Carribean,Caribbean,212,2005,0
+863,Dominican Republic,Latin America and the Carribean,Caribbean,214,2005,0.1553187358544259
+864,Grenada,Latin America and the Carribean,Caribbean,308,2005,0
+865,Guadeloupe,Latin America and the Carribean,Caribbean,312,2005,0
+866,Haiti,Latin America and the Carribean,Caribbean,332,2005,0
+867,Jamaica,Latin America and the Carribean,Caribbean,388,2005,0.12338570370979682
+868,Martinique,Latin America and the Carribean,Caribbean,474,2005,0
+869,Montserrat,Latin America and the Carribean,Caribbean,500,2005,0
+870,Puerto Rico,Latin America and the Carribean,Caribbean,630,2005,0
+871,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,2005,0
+872,Saint Lucia,Latin America and the Carribean,Caribbean,662,2005,0
+873,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,2005,0
+874,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,2005,0.0076335877862595426
+875,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,2005,0
+876,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,2005,0
+877,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,2005,0
+878,Belize,Latin America and the Carribean,Central America,84,2005,1.5063731170336037
+879,Costa Rica,Latin America and the Carribean,Central America,188,2005,3.1417603126963076
+880,El Salvador,Latin America and the Carribean,Central America,222,2005,0.11105250006940781
+881,Guatemala,Latin America and the Carribean,Central America,320,2005,0.7545587927059316
+882,Honduras,Latin America and the Carribean,Central America,340,2005,0.04663677130044843
+883,Mexico,Latin America and the Carribean,Central America,484,2005,0.45320125139125345
+884,Nicaragua,Latin America and the Carribean,Central America,558,2005,0.6500945071309926
+885,Panama,Latin America and the Carribean,Central America,591,2005,8.731488648639454
+886,Argentina,Latin America and the Carribean,South America,32,2005,0.1687896870935659
+887,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,2005,0.49932711494732934
+888,Brazil,Latin America and the Carribean,South America,76,2005,0.572048695390725
+889,Chile,Latin America and the Carribean,South America,152,2005,0.3595674948058409
+890,Colombia,Latin America and the Carribean,South America,170,2005,0.2081552243244248
+891,Ecuador,Latin America and the Carribean,South America,218,2005,5.369682610830078
+892,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,2005,0
+893,French Guiana,Latin America and the Carribean,South America,254,2005,0
+894,Guyana,Latin America and the Carribean,South America,328,2005,0.0368052999631947
+895,Paraguay,Latin America and the Carribean,South America,600,2005,0.03447394542417812
+896,Peru,Latin America and the Carribean,South America,604,2005,1.0936149907790718
+897,Suriname,Latin America and the Carribean,South America,740,2005,0.00594106463878327
+898,Uruguay,Latin America and the Carribean,South America,858,2005,0.15913894895405623
+899,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,2005,0.03811082403447909
+900,Bermuda,North America,Northern America,60,2005,0
+901,Canada,North America,Northern America,124,2005,2.420979818176883
+902,Greenland,North America,Northern America,304,2005,0
+903,Saint Pierre and Miquelon,North America,Northern America,666,2005,0
+904,United States of America,North America,Northern America,840,2005,0.9662671782494466
+905,Australia,Oceania,Australia and New Zealand,36,2005,1.3678062660541244
+906,New Zealand,Oceania,Australia and New Zealand,554,2005,0.6318218183896223
+907,Fiji,Oceania,Melanesia,242,2005,0.008041817450743867
+908,New Caledonia,Oceania,Melanesia,540,2005,0
+909,Papua New Guinea,Oceania,Melanesia,598,2005,33.36670337371108
+910,Solomon Islands,Oceania,Melanesia,90,2005,0
+911,Vanuatu,Oceania,Melanesia,548,2005,0
+912,Guam,Oceania,Micronesia,316,2005,0
+913,Kiribati,Oceania,Micronesia,296,2005,0
+914,Marshall Islands,Oceania,Micronesia,584,2005,0
+915,Micronesia (Federated States of),Oceania,Micronesia,583,2005,0
+916,Nauru,Oceania,Micronesia,520,2005,0
+917,Northern Mariana Islands,Oceania,Micronesia,580,2005,0
+918,Palau,Oceania,Micronesia,585,2005,0
+919,American Samoa,Oceania,Polynesia,16,2005,0
+920,Cook Islands,Oceania,Polynesia,184,2005,0
+921,French Polynesia,Oceania,Polynesia,258,2005,0
+922,Niue,Oceania,Polynesia,570,2005,0
+923,Samoa,Oceania,Polynesia,882,2005,0
+924,Tokelau,Oceania,Polynesia,772,2005,0
+925,Tonga,Oceania,Polynesia,776,2005,0
+926,Tuvalu,Oceania,Polynesia,798,2005,0
+927,Wallis and Futuna Islands,Oceania,Polynesia,876,2005,0
+928,Burundi,Africa,Eastern Africa,108,2010,12.481987936699552
+929,Comoros,Africa,Eastern Africa,174,2010,0.0
+930,Djibouti,Africa,Eastern Africa,262,2010,14.869800639921241
+931,Eritrea,Africa,Eastern Africa,232,2010,30.677468742026026
+932,Ethiopia,Africa,Eastern Africa,231,2010,27.17801028676108
+933,Kenya,Africa,Eastern Africa,404,2010,43.46524495689669
+934,Madagascar,Africa,Eastern Africa,450,2010,0.0
+935,Malawi,Africa,Eastern Africa,454,2010,2.6363895242557023
+936,Mauritius,Africa,Eastern Africa,480,2010,0.0
+937,Mayotte,Africa,Eastern Africa,175,2010,0.0
+938,Mozambique,Africa,Eastern Africa,508,2010,1.8997073788977317
+939,Réunion,Africa,Eastern Africa,638,2010,0.0
+940,Rwanda,Africa,Eastern Africa,646,2010,15.012809447167614
+941,Seychelles,Africa,Eastern Africa,690,2010,0.0
+942,Somalia,Africa,Eastern Africa,706,2010,8.072515107314024
+943,South Sudan,Africa,Eastern Africa,728,2010,10.53605009596557
+944,Uganda,Africa,Eastern Africa,800,2010,25.663504422102957
+945,United Republic of Tanzania,Africa,Eastern Africa,834,2010,35.41348023331173
+946,Zambia,Africa,Eastern Africa,894,2010,31.98206325975527
+947,Zimbabwe,Africa,Eastern Africa,716,2010,1.1146268701729871
+948,Angola,Africa,Middle Africa,24,2010,19.797776587545233
+949,Cameroon,Africa,Middle Africa,120,2010,36.069957210705276
+950,Central African Republic,Africa,Middle Africa,140,2010,23.082190315194833
+951,Chad,Africa,Middle Africa,148,2010,83.45381892143412
+952,Congo,Africa,Middle Africa,178,2010,31.719842058482207
+953,Democratic Republic of the Congo,Africa,Middle Africa,180,2010,28.2428049919348
+954,Equatorial Guinea,Africa,Middle Africa,226,2010,0.0
+955,Gabon,Africa,Middle Africa,266,2010,3.6947932719105543
+956,Sao Tome and Principe,Africa,Middle Africa,678,2010,0.0
+957,Algeria,Africa,Northern Africa,12,2010,38.43176956614033
+958,Egypt,Africa,Northern Africa,818,2010,32.14457212035954
+959,Libya,Africa,Northern Africa,434,2010,1.1583367202828079
+960,Morocco,Africa,Northern Africa,504,2010,1.1169245088775754
+961,Sudan,Africa,Northern Africa,729,2010,24.899241479831872
+962,Tunisia,Africa,Northern Africa,788,2010,0.25942740665245995
+963,Western Sahara,Africa,Northern Africa,732,2010,0.0
+964,Botswana,Africa,Southern Africa,72,2010,2.469564642053725
+965,Lesotho,Africa,Southern Africa,426,2010,0.0
+966,Namibia,Africa,Southern Africa,516,2010,7.083638494214149
+967,South Africa,Africa,Southern Africa,710,2010,2.9797246563350606
+968,Swaziland,Africa,Southern Africa,748,2010,2.490484315526972
+969,Benin,Africa,Western Africa,204,2010,3.4114313293543654
+970,Burkina Faso,Africa,Western Africa,854,2010,0.07879460575987085
+971,Cabo Verde,Africa,Western Africa,132,2010,0.0
+972,Côte d'Ivoire,Africa,Western Africa,384,2010,1.2513453465923057
+973,Gambia,Africa,Western Africa,270,2010,4.510047749013528
+974,Ghana,Africa,Western Africa,288,2010,4.103057115813149
+975,Guinea,Africa,Western Africa,324,2010,6.880664615744646
+976,Guinea-Bissau,Africa,Western Africa,624,2010,36.46075684915246
+977,Liberia,Africa,Western Africa,430,2010,24.952334836425262
+978,Mali,Africa,Western Africa,466,2010,4.027842558235569
+979,Mauritania,Africa,Western Africa,478,2010,31.550915811476283
+980,Niger,Africa,Western Africa,562,2010,0.248292004048583
+981,Nigeria,Africa,Western Africa,566,2010,0.9506389397881575
+982,Saint Helena,Africa,Western Africa,654,2010,0.0
+983,Senegal,Africa,Western Africa,686,2010,8.922184215047716
+984,Sierra Leone,Africa,Western Africa,694,2010,8.581660715018675
+985,Togo,Africa,Western Africa,768,2010,5.5045404329669125
+986,Kazakhstan,Asia,Central Asia,398,2010,0.13212887933658465
+987,Kyrgyzstan,Asia,Central Asia,417,2010,1.0617206093878908
+988,Tajikistan,Asia,Central Asia,762,2010,1.125643533032299
+989,Turkmenistan,Asia,Central Asia,795,2010,0.031316452755090186
+990,Uzbekistan,Asia,Central Asia,860,2010,0.02548869031569095
+991,China,Asia,Eastern Asia,156,2010,35.41590918985575
+992,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,2010,0.005539667979639921
+993,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,2010,0.0
+994,Democratic People's Republic of Korea,Asia,Eastern Asia,408,2010,0.0
+995,Japan,Asia,Eastern Asia,392,2010,0.12117230692673574
+996,Mongolia,Asia,Eastern Asia,496,2010,0.07471514849635764
+997,Republic of Korea,Asia,Eastern Asia,410,2010,0.038943732832939004
+998,Brunei Darussalam,Asia,South-Eastern Asia,96,2010,0.0
+999,Cambodia,Asia,South-Eastern Asia,116,2010,0.15736121107139808
+1000,Indonesia,Asia,South-Eastern Asia,360,2010,0.2655394609319748
+1001,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,2010,0.0
+1002,Malaysia,Asia,South-Eastern Asia,458,2010,3.388014435511725
+1003,Myanmar,Asia,South-Eastern Asia,104,2010,0.0
+1004,Philippines,Asia,South-Eastern Asia,608,2010,0.11649145010282887
+1005,Singapore,Asia,South-Eastern Asia,702,2010,0.0003233564025029633
+1006,Thailand,Asia,South-Eastern Asia,764,2010,2.9984823817642647
+1007,Timor-Leste,Asia,South-Eastern Asia,626,2010,0.009104980424292088
+1008,Viet Nam,Asia,South-Eastern Asia,704,2010,3.1219638577628084
+1009,Afghanistan,Asia,Southern Asia,4,2010,6.292666705788001
+1010,Bangladesh,Asia,Southern Asia,50,2010,17.037916206506505
+1011,Bhutan,Asia,Southern Asia,64,2010,0.0
+1012,India,Asia,Southern Asia,356,2010,3.3999373069816623
+1013,Iran (Islamic Republic of),Asia,Southern Asia,364,2010,38.86808946099688
+1014,Maldives,Asia,Southern Asia,462,2010,0.0
+1015,Nepal,Asia,Southern Asia,524,2010,15.123639738221433
+1016,Pakistan,Asia,Southern Asia,586,2010,48.21970140953413
+1017,Sri Lanka,Asia,Southern Asia,144,2010,0.5723966220898893
+1018,Armenia,Asia,Western Asia,51,2010,6.197869651561653
+1019,Azerbaijan,Asia,Western Asia,31,2010,0.6890549329904911
+1020,Bahrain,Asia,Western Asia,48,2010,0.02508147679735383
+1021,Cyprus,Asia,Western Asia,196,2010,1.8060588645349425
+1022,Georgia,Asia,Western Asia,268,2010,0.35070965192478676
+1023,Iraq,Asia,Western Asia,368,2010,29.518097947848602
+1024,Israel,Asia,Western Asia,376,2010,1.305793301087093
+1025,Jordan,Asia,Western Asia,400,2010,87.14475999299299
+1026,Kuwait,Asia,Western Asia,414,2010,0.009831491442595043
+1027,Lebanon,Asia,Western Asia,422,2010,56.367657541841574
+1028,Oman,Asia,Western Asia,512,2010,0.00955623538232905
+1029,Qatar,Asia,Western Asia,634,2010,0.003501753966766295
+1030,Saudi Arabia,Asia,Western Asia,682,2010,0.006583664256373343
+1031,State of Palestine,Asia,Western Asia,275,2010,757.8397253053885
+1032,Syrian Arab Republic,Asia,Western Asia,760,2010,89.14660254813403
+1033,Turkey,Asia,Western Asia,792,2010,0.7338515355141131
+1034,United Arab Emirates,Asia,Western Asia,784,2010,0.007353131114938323
+1035,Yemen,Asia,Western Asia,887,2010,66.50363668804249
+1036,Belarus,Europe,Eastern Europe,112,2010,0.05401796441234141
+1037,Bulgaria,Europe,Eastern Europe,100,2010,7.248941497240684
+1038,Czech Republic,Europe,Eastern Europe,203,2010,0.615659212891386
+1039,Hungary,Europe,Eastern Europe,348,2010,1.2399912050863917
+1040,Poland,Europe,Eastern Europe,616,2010,2.4213244668182816
+1041,Republic of Moldova,Europe,Eastern Europe,498,2010,0.0938681279650912
+1042,Romania,Europe,Eastern Europe,642,2010,0.6545627059532511
+1043,Russian Federation,Europe,Eastern Europe,643,2010,0.043967195219885104
+1044,Slovakia,Europe,Eastern Europe,703,2010,0.315065029148641
+1045,Ukraine,Europe,Eastern Europe,804,2010,0.052337039744814386
+1046,Channel Islands,Europe,Northern Europe,830,2010,0.0
+1047,Denmark,Europe,Northern Europe,208,2010,3.5159100718013105
+1048,Estonia,Europe,Northern Europe,233,2010,0.017898939832025333
+1049,Faeroe Islands,Europe,Northern Europe,234,2010,0.0
+1050,Finland,Europe,Northern Europe,246,2010,3.515828077457835
+1051,Iceland,Europe,Northern Europe,352,2010,0.2365278846427859
+1052,Ireland,Europe,Northern Europe,372,2010,1.2466086823207974
+1053,Isle of Man,Europe,Northern Europe,833,2010,0.0
+1054,Latvia,Europe,Northern Europe,428,2010,0.021670820240546104
+1055,Lithuania,Europe,Northern Europe,440,2010,0.49946508098425096
+1056,Norway,Europe,Northern Europe,578,2010,7.642383527683235
+1057,Sweden,Europe,Northern Europe,752,2010,5.966298633359544
+1058,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,2010,3.131664155680857
+1059,Albania,Europe,Southern Europe,8,2010,0.18755683540466808
+1060,Andorra,Europe,Southern Europe,20,2010,0.0
+1061,Bosnia and Herzegovina,Europe,Southern Europe,70,2010,18.08620334089503
+1062,Croatia,Europe,Southern Europe,191,2010,0.15054566261024896
+1063,Gibraltar,Europe,Southern Europe,292,2010,0.0
+1064,Greece,Europe,Southern Europe,300,2010,0.11372326341662801
+1065,Holy See,Europe,Southern Europe,336,2010,0.0
+1066,Italy,Europe,Southern Europe,380,2010,0.9743960366924544
+1067,Malta,Europe,Southern Europe,470,2010,18.546729536936283
+1068,Montenegro,Europe,Southern Europe,499,2010,20.844001171870026
+1069,Portugal,Europe,Southern Europe,620,2010,0.05033919968538
+1070,San Marino,Europe,Southern Europe,674,2010,0.0
+1071,Serbia,Europe,Southern Europe,688,2010,8.91066815484477
+1072,Slovenia,Europe,Southern Europe,705,2010,0.12293822354266981
+1073,Spain,Europe,Southern Europe,724,2010,0.060827395894787716
+1074,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,2010,0.7393929113885012
+1075,Austria,Europe,Western Europe,40,2010,3.3409300371789166
+1076,Belgium,Europe,Western Europe,56,2010,1.6993970616729543
+1077,France,Europe,Western Europe,250,2010,2.7886824129737855
+1078,Germany,Europe,Western Europe,276,2010,5.1204969286617175
+1079,Liechtenstein,Europe,Western Europe,438,2010,0.41178050308835373
+1080,Luxembourg,Europe,Western Europe,442,2010,1.994581407608096
+1081,Monaco,Europe,Western Europe,492,2010,0.0
+1082,Netherlands,Europe,Western Europe,528,2010,4.090618877932453
+1083,Switzerland,Europe,Western Europe,756,2010,2.3522274190890244
+1084,Anguilla,Latin America and the Carribean,Caribbean,660,2010,0.0
+1085,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,2010,0.0
+1086,Aruba,Latin America and the Carribean,Caribbean,533,2010,0.0
+1087,Bahamas,Latin America and the Carribean,Caribbean,44,2010,0.05115463314820228
+1088,Barbados,Latin America and the Carribean,Caribbean,52,2010,0.0
+1089,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,2010,0.0
+1090,British Virgin Islands,Latin America and the Carribean,Caribbean,92,2010,0.012855122766422419
+1091,Cayman Islands,Latin America and the Carribean,Caribbean,136,2010,0.00415679428025107
+1092,Cuba,Latin America and the Carribean,Caribbean,192,2010,2.773653664462141
+1093,Curaçao,Latin America and the Carribean,Caribbean,531,2010,0.01732751898807289
+1094,Dominica,Latin America and the Carribean,Caribbean,212,2010,0.0
+1095,Dominican Republic,Latin America and the Carribean,Caribbean,214,2010,0.1521385756375089
+1096,Grenada,Latin America and the Carribean,Caribbean,308,2010,0.0
+1097,Guadeloupe,Latin America and the Carribean,Caribbean,312,2010,0.0
+1098,Haiti,Latin America and the Carribean,Caribbean,332,2010,0.0
+1099,Jamaica,Latin America and the Carribean,Caribbean,388,2010,0.08869366896143938
+1100,Martinique,Latin America and the Carribean,Caribbean,474,2010,0.0
+1101,Montserrat,Latin America and the Carribean,Caribbean,500,2010,0.0
+1102,Puerto Rico,Latin America and the Carribean,Caribbean,630,2010,0.0
+1103,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,2010,0.0
+1104,Saint Lucia,Latin America and the Carribean,Caribbean,662,2010,0.0
+1105,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,2010,0.0
+1106,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,2010,0.0038167938931297713
+1107,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,2010,0.2716377058018496
+1108,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,2010,0.0
+1109,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,2010,0.0
+1110,Belize,Latin America and the Carribean,Central America,84,2010,0.2890422778257118
+1111,Costa Rica,Latin America and the Carribean,Central America,188,2010,4.811250012333376
+1112,El Salvador,Latin America and the Carribean,Central America,222,2010,0.09423668286876302
+1113,Guatemala,Latin America and the Carribean,Central America,320,2010,0.20788141720896602
+1114,Honduras,Latin America and the Carribean,Central America,340,2010,0.05130460275579009
+1115,Mexico,Latin America and the Carribean,Central America,484,2010,0.1438829628132162
+1116,Nicaragua,Latin America and the Carribean,Central America,558,2010,0.17143010205448264
+1117,Panama,Latin America and the Carribean,Central America,591,2010,10.853161611859461
+1118,Argentina,Latin America and the Carribean,South America,32,2010,0.23383723975709275
+1119,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,2010,0.5991241066050177
+1120,Brazil,Latin America and the Carribean,South America,76,2010,0.8702798666144645
+1121,Chile,Latin America and the Carribean,South America,152,2010,0.43877694648058124
+1122,Colombia,Latin America and the Carribean,South America,170,2010,0.17059490951227557
+1123,Ecuador,Latin America and the Carribean,South America,218,2010,37.26541802155111
+1124,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,2010,0.0
+1125,French Guiana,Latin America and the Carribean,South America,254,2010,0.0
+1126,Guyana,Latin America and the Carribean,South America,328,2010,0.05332927015084565
+1127,Paraguay,Latin America and the Carribean,South America,600,2010,0.07174093412934578
+1128,Peru,Latin America and the Carribean,South America,604,2010,1.3632146170865749
+1129,Suriname,Latin America and the Carribean,South America,740,2010,0.020144537053357843
+1130,Uruguay,Latin America and the Carribean,South America,858,2010,0.2478266000550726
+1131,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,2010,15.136974572808768
+1132,Bermuda,North America,Northern America,60,2010,0.0
+1133,Canada,North America,Northern America,124,2010,2.3611990256768216
+1134,Greenland,North America,Northern America,304,2010,0.0
+1135,Saint Pierre and Miquelon,North America,Northern America,666,2010,0.0
+1136,United States of America,North America,Northern America,840,2010,0.5988053090144695
+1137,Australia,Oceania,Australia and New Zealand,36,2010,0.433538784765544
+1138,New Zealand,Oceania,Australia and New Zealand,554,2010,0.24349749800251838
+1139,Fiji,Oceania,Melanesia,242,2010,0.007490075649764063
+1140,New Caledonia,Oceania,Melanesia,540,2010,0.0
+1141,Papua New Guinea,Oceania,Melanesia,598,2010,18.478602894902455
+1142,Solomon Islands,Oceania,Melanesia,90,2010,0.0
+1143,Vanuatu,Oceania,Melanesia,548,2010,0.13373453694416582
+1144,Guam,Oceania,Micronesia,316,2010,0.0
+1145,Kiribati,Oceania,Micronesia,296,2010,0.0
+1146,Marshall Islands,Oceania,Micronesia,584,2010,0.0
+1147,Micronesia (Federated States of),Oceania,Micronesia,583,2010,0.0
+1148,Nauru,Oceania,Micronesia,520,2010,0.0
+1149,Northern Mariana Islands,Oceania,Micronesia,580,2010,0.0
+1150,Palau,Oceania,Micronesia,585,2010,0.0
+1151,American Samoa,Oceania,Polynesia,16,2010,0.0
+1152,Cook Islands,Oceania,Polynesia,184,2010,0.0
+1153,French Polynesia,Oceania,Polynesia,258,2010,0.0
+1154,Niue,Oceania,Polynesia,570,2010,0.0
+1155,Samoa,Oceania,Polynesia,882,2010,0.0
+1156,Tokelau,Oceania,Polynesia,772,2010,0.0
+1157,Tonga,Oceania,Polynesia,776,2010,0.0
+1158,Tuvalu,Oceania,Polynesia,798,2010,0.0
+1159,Wallis and Futuna Islands,Oceania,Polynesia,876,2010,0.0
+1160,Burundi,Africa,Eastern Africa,108,2015,16.667828876259545
+1161,Comoros,Africa,Eastern Africa,174,2015,0.0
+1162,Djibouti,Africa,Eastern Africa,262,2015,18.273090582193305
+1163,Eritrea,Africa,Eastern Africa,232,2015,18.179537042845492
+1164,Ethiopia,Africa,Eastern Africa,231,2015,61.46834565296208
+1165,Kenya,Africa,Eastern Africa,404,2015,50.845985224423316
+1166,Madagascar,Africa,Eastern Africa,450,2015,0.03741231488698363
+1167,Malawi,Africa,Eastern Africa,454,2015,2.716143485252698
+1168,Mauritius,Africa,Eastern Africa,480,2015,0.0
+1169,Mayotte,Africa,Eastern Africa,175,2015,0.0
+1170,Mozambique,Africa,Eastern Africa,508,2015,1.9939173185961385
+1171,Réunion,Africa,Eastern Africa,638,2015,0.0
+1172,Rwanda,Africa,Eastern Africa,646,2015,16.47992752392277
+1173,Seychelles,Africa,Eastern Africa,690,2015,0.0
+1174,Somalia,Africa,Eastern Africa,706,2015,9.892847257917836
+1175,South Sudan,Africa,Eastern Africa,728,2015,29.203564520786973
+1176,Uganda,Africa,Eastern Africa,800,2015,47.827467640509106
+1177,United Republic of Tanzania,Africa,Eastern Africa,834,2015,34.702283881143245
+1178,Zambia,Africa,Eastern Africa,894,2015,19.283117695344565
+1179,Zimbabwe,Africa,Eastern Africa,716,2015,1.3530859988066168
+1180,Angola,Africa,Middle Africa,24,2015,14.482661799803454
+1181,Cameroon,Africa,Middle Africa,120,2015,69.14582809751194
+1182,Central African Republic,Africa,Middle Africa,140,2015,9.429152675310668
+1183,Chad,Africa,Middle Africa,148,2015,87.99035917116727
+1184,Congo,Africa,Middle Africa,178,2015,12.506997526692384
+1185,Democratic Republic of the Congo,Africa,Middle Africa,180,2015,21.945266028213613
+1186,Equatorial Guinea,Africa,Middle Africa,226,2015,0.0
+1187,Gabon,Africa,Middle Africa,266,2015,0.37744425897221895
+1188,Sao Tome and Principe,Africa,Middle Africa,678,2015,0.0
+1189,Algeria,Africa,Northern Africa,12,2015,38.839725897413686
+1190,Egypt,Africa,Northern Africa,818,2015,53.23802027080625
+1191,Libya,Africa,Northern Africa,434,2015,3.3146771169143068
+1192,Morocco,Africa,Northern Africa,504,2015,1.762492797505395
+1193,Sudan,Africa,Northern Africa,729,2015,40.75141466243741
+1194,Tunisia,Africa,Northern Africa,788,2015,1.629600888873212
+1195,Western Sahara,Africa,Northern Africa,732,2015,0.0
+1196,Botswana,Africa,Southern Africa,72,2015,1.7218196758048854
+1197,Lesotho,Africa,Southern Africa,426,2015,0.6695069993913573
+1198,Namibia,Africa,Southern Africa,516,2015,1.617885139740968
+1199,South Africa,Africa,Southern Africa,710,2015,3.570138656634774
+1200,Swaziland,Africa,Southern Africa,748,2015,1.7511637480604199
+1201,Benin,Africa,Western Africa,204,2015,0.08924241745076386
+1202,Burkina Faso,Africa,Western Africa,854,2015,4.526051689003173
+1203,Cabo Verde,Africa,Western Africa,132,2015,0.0
+1204,Côte d'Ivoire,Africa,Western Africa,384,2015,0.13064270048850807
+1205,Gambia,Africa,Western Africa,270,2015,6.028877116443336
+1206,Ghana,Africa,Western Africa,288,2015,4.618608109224449
+1207,Guinea,Africa,Western Africa,324,2015,3.837785064773021
+1208,Guinea-Bissau,Africa,Western Africa,624,2015,38.88416245018582
+1209,Liberia,Africa,Western Africa,430,2015,33.56331133161656
+1210,Mali,Africa,Western Africa,466,2015,3.9997797023227637
+1211,Mauritania,Africa,Western Africa,478,2015,57.87481362458563
+1212,Niger,Africa,Western Africa,562,2015,32.27602969538454
+1213,Nigeria,Africa,Western Africa,566,2015,0.1275941006492288
+1214,Saint Helena,Africa,Western Africa,654,2015,0.0
+1215,Senegal,Africa,Western Africa,686,2015,5.415929069069525
+1216,Sierra Leone,Africa,Western Africa,694,2015,2.6344928902678344
+1217,Togo,Africa,Western Africa,768,2015,8.006314025227205
+1218,Kazakhstan,Asia,Central Asia,398,2015,0.0178471841203481
+1219,Kyrgyzstan,Asia,Central Asia,417,2015,0.2358329011361079
+1220,Tajikistan,Asia,Central Asia,762,2015,0.8052817759098958
+1221,Turkmenistan,Asia,Central Asia,795,2015,0.018331245608139073
+1222,Uzbekistan,Asia,Central Asia,860,2015,0.011358793542397765
+1223,China,Asia,Eastern Asia,156,2015,30.780965312469966
+1224,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,344,2015,0.006481920198403123
+1225,"China, Macao Special Administrative Region",Asia,Eastern Asia,446,2015,0.0
+1226,Democratic People's Republic of Korea,Asia,Eastern Asia,408,2015,0.0
+1227,Japan,Asia,Eastern Asia,392,2015,0.12525215558470496
+1228,Mongolia,Asia,Eastern Asia,496,2015,0.0170261066969353
+1229,Republic of Korea,Asia,Eastern Asia,410,2015,0.06584677139869391
+1230,Brunei Darussalam,Asia,South-Eastern Asia,96,2015,0.0
+1231,Cambodia,Asia,South-Eastern Asia,116,2015,0.1406108459635223
+1232,Indonesia,Asia,South-Eastern Asia,360,2015,1.2984801396398313
+1233,Lao People's Democratic Republic,Asia,South-Eastern Asia,418,2015,0.0
+1234,Malaysia,Asia,South-Eastern Asia,458,2015,3.906026585338012
+1235,Myanmar,Asia,South-Eastern Asia,104,2015,0.0
+1236,Philippines,Asia,South-Eastern Asia,608,2015,0.08920901341439239
+1237,Singapore,Asia,South-Eastern Asia,702,2015,0.0001179413108311796
+1238,Thailand,Asia,South-Eastern Asia,764,2015,3.3945627914131906
+1239,Timor-Leste,Asia,South-Eastern Asia,626,2015,0.0
+1240,Viet Nam,Asia,South-Eastern Asia,704,2015,0.0
+1241,Afghanistan,Asia,Southern Asia,4,2015,78.6078746747218
+1242,Bangladesh,Asia,Southern Asia,50,2015,16.3468641170083
+1243,Bhutan,Asia,Southern Asia,64,2015,0.0
+1244,India,Asia,Southern Asia,356,2015,3.790622328733667
+1245,Iran (Islamic Republic of),Asia,Southern Asia,364,2015,36.021045913689015
+1246,Maldives,Asia,Southern Asia,462,2015,0.0
+1247,Nepal,Asia,Southern Asia,524,2015,8.00554914543932
+1248,Pakistan,Asia,Southern Asia,586,2015,44.375159136677325
+1249,Sri Lanka,Asia,Southern Asia,144,2015,0.795742262181574
+1250,Armenia,Asia,Western Asia,51,2015,7.6762953781139025
+1251,Azerbaijan,Asia,Western Asia,31,2015,0.5222505213044153
+1252,Bahrain,Asia,Western Asia,48,2015,0.042463327449061755
+1253,Cyprus,Asia,Western Asia,196,2015,2.1823242441389223
+1254,Georgia,Asia,Western Asia,268,2015,0.5076954064525302
+1255,Iraq,Asia,Western Asia,368,2015,76.61982417818419
+1256,Israel,Asia,Western Asia,376,2015,2.396001047855897
+1257,Jordan,Asia,Western Asia,400,2015,88.41439628075088
+1258,Kuwait,Asia,Western Asia,414,2015,0.021422570317668106
+1259,Lebanon,Asia,Western Asia,422,2015,80.94896524935729
+1260,Oman,Asia,Western Asia,512,2015,0.008075977057721014
+1261,Qatar,Asia,Western Asia,634,2015,0.007525301604607617
+1262,Saudi Arabia,Asia,Western Asia,682,2015,0.005281787796812176
+1263,State of Palestine,Asia,Western Asia,275,2015,802.7553061168579
+1264,Syrian Arab Republic,Asia,Western Asia,760,2015,81.49142642332113
+1265,Turkey,Asia,Western Asia,792,2015,53.53858254331657
+1266,United Arab Emirates,Asia,Western Asia,784,2015,0.006349499686601544
+1267,Yemen,Asia,Western Asia,887,2015,70.1151596339766
+1268,Belarus,Europe,Eastern Europe,112,2015,0.08541838850129975
+1269,Bulgaria,Europe,Eastern Europe,100,2015,10.817427751608513
+1270,Czech Republic,Europe,Eastern Europe,203,2015,0.7353866889825299
+1271,Hungary,Europe,Eastern Europe,348,2015,0.5989342395559035
+1272,Poland,Europe,Eastern Europe,616,2015,2.6538457191844405
+1273,Republic of Moldova,Europe,Eastern Europe,498,2015,0.19803504450540224
+1274,Romania,Europe,Eastern Europe,642,2015,0.8795160018154339
+1275,Russian Federation,Europe,Eastern Europe,643,2015,2.024773783598362
+1276,Slovakia,Europe,Eastern Europe,703,2015,0.39562052034539197
+1277,Ukraine,Europe,Eastern Europe,804,2015,0.06477902946453058
+1278,Channel Islands,Europe,Northern Europe,830,2015,0.0
+1279,Denmark,Europe,Northern Europe,208,2015,3.1064416963599526
+1280,Estonia,Europe,Northern Europe,233,2015,0.04003004724533971
+1281,Faeroe Islands,Europe,Northern Europe,234,2015,0.0
+1282,Finland,Europe,Northern Europe,246,2015,3.562100917750672
+1283,Iceland,Europe,Northern Europe,352,2015,0.21054314801982835
+1284,Ireland,Europe,Northern Europe,372,2015,0.8041433280626056
+1285,Isle of Man,Europe,Northern Europe,833,2015,0.0
+1286,Latvia,Europe,Northern Europe,428,2015,0.06270760016113953
+1287,Lithuania,Europe,Northern Europe,440,2015,0.6990796553853391
+1288,Norway,Europe,Northern Europe,578,2015,6.215313023632641
+1289,Sweden,Europe,Northern Europe,752,2015,6.9628624972633375
+1290,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,826,2015,1.4755148002135052
+1291,Albania,Europe,Southern Europe,8,2015,13.605595667870036
+1292,Andorra,Europe,Southern Europe,20,2015,0.0
+1293,Bosnia and Herzegovina,Europe,Southern Europe,70,2015,19.845990288193548
+1294,Croatia,Europe,Southern Europe,191,2015,0.09707341003288361
+1295,Gibraltar,Europe,Southern Europe,292,2015,0.0
+1296,Greece,Europe,Southern Europe,300,2015,0.8292864305754301
+1297,Holy See,Europe,Southern Europe,336,2015,0.0
+1298,Italy,Europe,Southern Europe,380,2015,1.3174062317807864
+1299,Malta,Europe,Southern Europe,470,2015,23.903286520920805
+1300,Montenegro,Europe,Southern Europe,499,2015,8.674476926618286
+1301,Portugal,Europe,Southern Europe,620,2015,0.0714237086103789
+1302,San Marino,Europe,Southern Europe,674,2015,0.0
+1303,Serbia,Europe,Southern Europe,688,2015,5.4199625731167975
+1304,Slovenia,Europe,Southern Europe,705,2015,0.09959061898748124
+1305,Spain,Europe,Southern Europe,724,2015,0.0792249655857479
+1306,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,807,2015,0.494148244473342
+1307,Austria,Europe,Western Europe,40,2015,5.290027834845689
+1308,Belgium,Europe,Western Europe,56,2015,2.102324307967203
+1309,France,Europe,Western Europe,250,2015,3.240627623028465
+1310,Germany,Europe,Western Europe,276,2015,1.807251394963555
+1311,Liechtenstein,Europe,Western Europe,438,2015,0.4128889456433831
+1312,Luxembourg,Europe,Western Europe,442,2015,0.368996289982954
+1313,Monaco,Europe,Western Europe,492,2015,0.1615815987073472
+1314,Netherlands,Europe,Western Europe,528,2015,3.7740605389479898
+1315,Switzerland,Europe,Western Europe,756,2015,2.369416189431919
+1316,Anguilla,Latin America and the Carribean,Caribbean,660,2015,0.0
+1317,Antigua and Barbuda,Latin America and the Carribean,Caribbean,28,2015,0.0
+1318,Aruba,Latin America and the Carribean,Caribbean,533,2015,0.0
+1319,Bahamas,Latin America and the Carribean,Caribbean,44,2015,0.047212760934812664
+1320,Barbados,Latin America and the Carribean,Caribbean,52,2015,0.0
+1321,"Bonaire, Sint Eustatius and Saba",Latin America and the Carribean,Caribbean,535,2015,0.0
+1322,British Virgin Islands,Latin America and the Carribean,Caribbean,92,2015,0.01733302519066328
+1323,Cayman Islands,Latin America and the Carribean,Caribbean,136,2015,0.025288712804518252
+1324,Cuba,Latin America and the Carribean,Caribbean,192,2015,2.099580083983203
+1325,Curaçao,Latin America and the Carribean,Caribbean,531,2015,0.09837547525989737
+1326,Dominica,Latin America and the Carribean,Caribbean,212,2015,0.0
+1327,Dominican Republic,Latin America and the Carribean,Caribbean,214,2015,0.14799164508956503
+1328,Grenada,Latin America and the Carribean,Caribbean,308,2015,0.0
+1329,Guadeloupe,Latin America and the Carribean,Caribbean,312,2015,0.0
+1330,Haiti,Latin America and the Carribean,Caribbean,332,2015,0.007589364770168737
+1331,Jamaica,Latin America and the Carribean,Caribbean,388,2015,0.0992791470626322
+1332,Martinique,Latin America and the Carribean,Caribbean,474,2015,0.0
+1333,Montserrat,Latin America and the Carribean,Caribbean,500,2015,0.0
+1334,Puerto Rico,Latin America and the Carribean,Caribbean,630,2015,0.0
+1335,Saint Kitts and Nevis,Latin America and the Carribean,Caribbean,659,2015,0.0
+1336,Saint Lucia,Latin America and the Carribean,Caribbean,662,2015,0.03915120194189962
+1337,Saint Vincent and the Grenadines,Latin America and the Carribean,Caribbean,670,2015,0.0
+1338,Sint Maarten (Dutch part),Latin America and the Carribean,Caribbean,534,2015,0.01099102399706906
+1339,Trinidad and Tobago,Latin America and the Carribean,Caribbean,780,2015,0.11426738568249704
+1340,Turks and Caicos Islands,Latin America and the Carribean,Caribbean,796,2015,0.0
+1341,United States Virgin Islands,Latin America and the Carribean,Caribbean,850,2015,0.0
+1342,Belize,Latin America and the Carribean,Central America,84,2015,0.01856665428889714
+1343,Costa Rica,Latin America and the Carribean,Central America,188,2015,4.889766823098101
+1344,El Salvador,Latin America and the Carribean,Central America,222,2015,0.08324414317992627
+1345,Guatemala,Latin America and the Carribean,Central America,320,2015,0.21479463537300922
+1346,Honduras,Latin America and the Carribean,Central America,340,2015,0.09262557890986818
+1347,Mexico,Latin America and the Carribean,Central America,484,2015,0.15345868726192322
+1348,Nicaragua,Latin America and the Carribean,Central America,558,2015,0.553872137499379
+1349,Panama,Latin America and the Carribean,Central America,591,2015,9.243137891830438
+1350,Argentina,Latin America and the Carribean,South America,32,2015,0.2050518093737148
+1351,Bolivia (Plurinational State of),Latin America and the Carribean,South America,68,2015,0.5287119988250845
+1352,Brazil,Latin America and the Carribean,South America,76,2015,1.0496546930355621
+1353,Chile,Latin America and the Carribean,South America,152,2015,0.3732138140236369
+1354,Colombia,Latin America and the Carribean,South America,170,2015,0.19378971562485917
+1355,Ecuador,Latin America and the Carribean,South America,218,2015,31.52436176334729
+1356,Falkland Islands (Malvinas),Latin America and the Carribean,South America,238,2015,0.0
+1357,French Guiana,Latin America and the Carribean,South America,254,2015,0.0
+1358,Guyana,Latin America and the Carribean,South America,328,2015,0.07150286011440457
+1359,Paraguay,Latin America and the Carribean,South America,600,2015,0.08628293131878667
+1360,Peru,Latin America and the Carribean,South America,604,2015,1.352317866220662
+1361,Suriname,Latin America and the Carribean,South America,740,2015,0.006405329233922624
+1362,Uruguay,Latin America and the Carribean,South America,858,2015,0.28551929692614103
+1363,Venezuela (Bolivarian Republic of),Latin America and the Carribean,South America,862,2015,14.574053293535966
+1364,Bermuda,North America,Northern America,60,2015,0.0
+1365,Canada,North America,Northern America,124,2015,2.0455485813161682
+1366,Greenland,North America,Northern America,304,2015,0.0
+1367,Saint Pierre and Miquelon,North America,Northern America,666,2015,0.0
+1368,United States of America,North America,Northern America,840,2015,0.5654694130465153
+1369,Australia,Oceania,Australia and New Zealand,36,2015,0.7097485489741284
+1370,New Zealand,Oceania,Australia and New Zealand,554,2015,0.13493809967145506
+1371,Fiji,Oceania,Melanesia,242,2015,0.09453857901243545
+1372,New Caledonia,Oceania,Melanesia,540,2015,0.0
+1373,Papua New Guinea,Oceania,Melanesia,598,2015,18.606004188969045
+1374,Solomon Islands,Oceania,Melanesia,90,2015,0.0
+1375,Vanuatu,Oceania,Melanesia,548,2015,0.06275494195167869
+1376,Guam,Oceania,Micronesia,316,2015,0.0
+1377,Kiribati,Oceania,Micronesia,296,2015,0.0
+1378,Marshall Islands,Oceania,Micronesia,584,2015,0.0
+1379,Micronesia (Federated States of),Oceania,Micronesia,583,2015,0.0
+1380,Nauru,Oceania,Micronesia,520,2015,12.24040276903713
+1381,Northern Mariana Islands,Oceania,Micronesia,580,2015,0.0
+1382,Palau,Oceania,Micronesia,585,2015,0.01765536723163842
+1383,American Samoa,Oceania,Polynesia,16,2015,0.0
+1384,Cook Islands,Oceania,Polynesia,184,2015,0.0
+1385,French Polynesia,Oceania,Polynesia,258,2015,0.0
+1386,Niue,Oceania,Polynesia,570,2015,0.0
+1387,Samoa,Oceania,Polynesia,882,2015,0.0
+1388,Tokelau,Oceania,Polynesia,772,2015,0.0
+1389,Tonga,Oceania,Polynesia,776,2015,0.0
+1390,Tuvalu,Oceania,Polynesia,798,2015,0.0
+1391,Wallis and Futuna Islands,Oceania,Polynesia,876,2015,0.0
